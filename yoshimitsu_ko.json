@@ -1,0 +1,4122 @@
+[
+    {
+        "Command": "레이지 도중 4LPRP",
+        "Hit level": "m",
+        "Damage": "-",
+        "Start up frame": "20?",
+        "Block frame": "\u2013",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "레이지 도중 7LPRK",
+        "Hit level": "Attack returned",
+        "Damage": "20",
+        "Start up frame": "6~",
+        "Block frame": "\u2013",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Rage drive"
+    },
+    {
+        "Command": "LP",
+        "Hit level": "h",
+        "Damage": "9",
+        "Start up frame": "10",
+        "Block frame": "+1",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "LP LP",
+        "Hit level": "h, m",
+        "Damage": "9,21",
+        "Start up frame": "10",
+        "Block frame": "-8~-7",
+        "Hit frame": "+4~+5s",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "LP RP",
+        "Hit level": "h, m",
+        "Damage": "9,16",
+        "Start up frame": "10",
+        "Block frame": "-9",
+        "Hit frame": "-3",
+        "Counter hit frame": "-3",
+        "Notes": "-"
+    },
+    {
+        "Command": "LP RP LP",
+        "Hit level": "h, m, h",
+        "Damage": "9,16,20",
+        "Start up frame": "10",
+        "Block frame": "-9",
+        "Hit frame": "-2",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "RP",
+        "Hit level": "h",
+        "Damage": "13",
+        "Start up frame": "10",
+        "Block frame": "-1",
+        "Hit frame": "+5",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "RP LP",
+        "Hit level": "h, m",
+        "Damage": "13,31",
+        "Start up frame": "10",
+        "Block frame": "-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "RP LP 4 (취소)",
+        "Hit level": "h, (Special)",
+        "Damage": "13",
+        "Start up frame": "10",
+        "Block frame": "-13",
+        "Hit frame": "-7",
+        "Counter hit frame": "-4",
+        "Notes": "-"
+    },
+    {
+        "Command": "RP RP",
+        "Hit level": "h, h",
+        "Damage": "13,10",
+        "Start up frame": "10",
+        "Block frame": "-1",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "RP RP LPRP",
+        "Hit level": "h, h, (KIN)",
+        "Damage": "13,10",
+        "Start up frame": "10",
+        "Block frame": "\u2013",
+        "Hit frame": "+",
+        "Counter hit frame": "+",
+        "Notes": "-"
+    },
+    {
+        "Command": "RP LK",
+        "Hit level": "h, h",
+        "Damage": "13,28",
+        "Start up frame": "10",
+        "Block frame": "-10",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "RP 2LK",
+        "Hit level": "h, l (TC)",
+        "Damage": "13,14",
+        "Start up frame": "10 RC",
+        "Block frame": "-12",
+        "Hit frame": "-1",
+        "Counter hit frame": "-1",
+        "Notes": "-"
+    },
+    {
+        "Command": "LK~RK",
+        "Hit level": "mm (TJ)",
+        "Damage": "16,21",
+        "Start up frame": "17,28~29 (18~)",
+        "Block frame": "-6~-5",
+        "Hit frame": "+3~+4?",
+        "Counter hit frame": "+3~+4?",
+        "Notes": "-"
+    },
+    {
+        "Command": "LK~RK 7 또는 8 또는 9",
+        "Hit level": "mm (TJ), (Special) (TJ)(DGF)",
+        "Damage": "16,21",
+        "Start up frame": "17,28~29 a(18~)",
+        "Block frame": "+5~+6",
+        "Hit frame": "+9~+10?",
+        "Counter hit frame": "+9~+10?",
+        "Notes": "-"
+    },
+    {
+        "Command": "LK~RK (후속타가 헛쳤을 때)",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "17(18~)",
+        "Block frame": "-19? (Stance-9?)",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "RK~LK",
+        "Hit level": "m (TC)",
+        "Damage": "33",
+        "Start up frame": "25a(26~)",
+        "Block frame": "-12",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "RK",
+        "Hit level": "h",
+        "Damage": "22",
+        "Start up frame": "15",
+        "Block frame": "-11",
+        "Hit frame": "0",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "RK RK",
+        "Hit level": "h, h",
+        "Damage": "22,22",
+        "Start up frame": "15",
+        "Block frame": "-4",
+        "Hit frame": "-2",
+        "Counter hit frame": "-2",
+        "Notes": "-"
+    },
+    {
+        "Command": "RK RK RK",
+        "Hit level": "h, h, h",
+        "Damage": "22,22,27",
+        "Start up frame": "15",
+        "Block frame": "-4",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "LPRK 또는 일어나며 LPRK",
+        "Hit level": "m",
+        "Damage": "28",
+        "Start up frame": "6",
+        "Block frame": "-15",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "RK~LP",
+        "Hit level": "m",
+        "Damage": "28",
+        "Start up frame": "6(7~)",
+        "Block frame": "-15",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "LPRPLK",
+        "Hit level": "m(!)",
+        "Damage": "0",
+        "Start up frame": "22~25",
+        "Block frame": "-8~-5",
+        "Hit frame": "0~+3",
+        "Counter hit frame": "+16~+19",
+        "Notes": "-"
+    },
+    {
+        "Command": "6RP",
+        "Hit level": "h",
+        "Damage": "24",
+        "Start up frame": "17",
+        "Block frame": "-4",
+        "Hit frame": "+13kg",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "6RP 1RP",
+        "Hit level": "h, m",
+        "Damage": "24,10",
+        "Start up frame": "17 RC",
+        "Block frame": "-5~-4",
+        "Hit frame": "+6~+7",
+        "Counter hit frame": "+6~+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "6RP 1RP RP",
+        "Hit level": "h, m, m",
+        "Damage": "24,10,9",
+        "Start up frame": "17 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "6RP 1RP RP RP",
+        "Hit level": "h, m, m, m",
+        "Damage": "24,10,9,8",
+        "Start up frame": "17 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "6RP 1RP RP RP RP",
+        "Hit level": "h, m, m, m, m",
+        "Damage": "24,10,9,8,6",
+        "Start up frame": "17 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "6RP 1RP RP RP RP RP",
+        "Hit level": "h, m, m, m, m, m",
+        "Damage": "24,10,9,8,6,5",
+        "Start up frame": "17 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "6RP 1RP RP RP RP RP RP",
+        "Hit level": "h, m, m, m, m, m, m",
+        "Damage": "24,10,9,8,6,5,4",
+        "Start up frame": "17 RG",
+        "Block frame": "-49~-46",
+        "Hit frame": "-38~-35",
+        "Counter hit frame": "-38~-35",
+        "Notes": "-"
+    },
+    {
+        "Command": "6LK",
+        "Hit level": "h",
+        "Damage": "32",
+        "Start up frame": "16",
+        "Block frame": "-10",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "6LK LK",
+        "Hit level": "h, l (TC)",
+        "Damage": "32,21",
+        "Start up frame": "16",
+        "Block frame": "-20",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "6LK LK 2LKRK",
+        "Hit level": "h, l (TC), (IND)",
+        "Damage": "32,21",
+        "Start up frame": "16 Air",
+        "Block frame": "-35",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND?",
+        "Notes": "-"
+    },
+    {
+        "Command": "6LK RK",
+        "Hit level": "h, m",
+        "Damage": "32,27",
+        "Start up frame": "16b",
+        "Block frame": "-6",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "6RK",
+        "Hit level": "m",
+        "Damage": "33",
+        "Start up frame": "18",
+        "Block frame": "-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Wall bounce"
+    },
+    {
+        "Command": "6LPRP",
+        "Hit level": "m",
+        "Damage": "29",
+        "Start up frame": "17?~18",
+        "Block frame": "-8?~-7",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "6LKRK",
+        "Hit level": "m(, (Special))(FLE)",
+        "Damage": "27(35)",
+        "Start up frame": "21~25?",
+        "Block frame": "-14~-10?",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Power crush"
+    },
+    {
+        "Command": "6LKRK 4",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": " RBT",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "Power crush"
+    },
+    {
+        "Command": "3LP",
+        "Hit level": "m",
+        "Damage": "14",
+        "Start up frame": "13",
+        "Block frame": "-4",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "3LP RP",
+        "Hit level": "m, h",
+        "Damage": "14,",
+        "Start up frame": "13",
+        "Block frame": "-4",
+        "Hit frame": "+13kg",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "3LP RK",
+        "Hit level": "m, m",
+        "Damage": "14,17",
+        "Start up frame": "13",
+        "Block frame": "-12",
+        "Hit frame": "+4?",
+        "Counter hit frame": "+",
+        "Notes": "-"
+    },
+    {
+        "Command": "3RP",
+        "Hit level": "m",
+        "Damage": "17",
+        "Start up frame": "15~16",
+        "Block frame": "-7~-6",
+        "Hit frame": "Launch (JG?)(+4a)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "3LK",
+        "Hit level": "m",
+        "Damage": "13",
+        "Start up frame": "17~18 RC",
+        "Block frame": "-4~-3",
+        "Hit frame": "+4~+5",
+        "Counter hit frame": "+4~+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "3LK LP",
+        "Hit level": "m, m",
+        "Damage": "13,27",
+        "Start up frame": "17~18",
+        "Block frame": "-9~-8?",
+        "Hit frame": "+3~+4?s",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "3LK LPN (취소)",
+        "Hit level": "m, !",
+        "Damage": "13,27\uff5e",
+        "Start up frame": "17~18",
+        "Block frame": "0~+1 OC",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "3LPRP",
+        "Hit level": "l (TC)",
+        "Damage": "12",
+        "Start up frame": "26 RC",
+        "Block frame": "-11",
+        "Hit frame": "+4",
+        "Counter hit frame": "+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "3LPRP RP",
+        "Hit level": "l (TC), m",
+        "Damage": "16,27",
+        "Start up frame": "26",
+        "Block frame": "-13",
+        "Hit frame": "0",
+        "Counter hit frame": "+6k",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "24~25",
+        "Block frame": "-5~-4",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP N n (A6ter on step)",
+        "Hit level": "!",
+        "Damage": "27",
+        "Start up frame": "65~66",
+        "Block frame": "0~+1 OC",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP N n (A6ter two step)",
+        "Hit level": "!",
+        "Damage": "33",
+        "Start up frame": "100~101",
+        "Block frame": "0~+1 OC",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP N n (A6ter three step)",
+        "Hit level": "!",
+        "Damage": "40",
+        "Start up frame": "135~136",
+        "Block frame": "0~+1 OC",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP N n (6o8r steps)",
+        "Hit level": "!",
+        "Damage": "54",
+        "Start up frame": "170~171",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP N n (6ive steps)",
+        "Hit level": "!",
+        "Damage": "81",
+        "Start up frame": "205~206",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP N n (Six steps)",
+        "Hit level": "!",
+        "Damage": "135",
+        "Start up frame": "240~241",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP N 4 (취소)",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "240~241",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "2RP",
+        "Hit level": "m (TC)",
+        "Damage": "16",
+        "Start up frame": "16~17",
+        "Block frame": "-9~-8",
+        "Hit frame": "0~+1",
+        "Counter hit frame": "0~+1",
+        "Notes": "-"
+    },
+    {
+        "Command": "2RP LP",
+        "Hit level": "m (TC), h",
+        "Damage": "16,22",
+        "Start up frame": "16~17",
+        "Block frame": "-9?",
+        "Hit frame": "KND",
+        "Counter hit frame": "-",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "2RP RP",
+        "Hit level": "m (TC), m",
+        "Damage": "16,22",
+        "Start up frame": "16~17",
+        "Block frame": "-12~-11",
+        "Hit frame": "+7~+8",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "2RP RP LP",
+        "Hit level": "m (TC), m, h",
+        "Damage": "16,22,27",
+        "Start up frame": "16~17",
+        "Block frame": "-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2RP RP 2LP",
+        "Hit level": "m (TC), m, m",
+        "Damage": "16,22,22",
+        "Start up frame": "16~17",
+        "Block frame": "-10",
+        "Hit frame": "+4s",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2RP RP RPLK",
+        "Hit level": "m (TC), m, (Special)",
+        "Damage": "16,22",
+        "Start up frame": "16~17",
+        "Block frame": "-12~-11",
+        "Hit frame": "+7~+8",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LPRK",
+        "Hit level": "!",
+        "Damage": "81(,22)",
+        "Start up frame": "30d",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LPRK 4LP (one spin)",
+        "Hit level": "!, !",
+        "Damage": "81,24",
+        "Start up frame": "30 RG",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LPRK 4LP LP (two spins)",
+        "Hit level": "!, !, !",
+        "Damage": "81,24,27",
+        "Start up frame": "30 RG",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LPRK 4LP LP LP (three spins)",
+        "Hit level": "!, !, !, !",
+        "Damage": "81,24,27,28",
+        "Start up frame": "30 RG",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LPRK 4LP LP LP LP (6o8r spins)",
+        "Hit level": "!, !, !, !, !",
+        "Damage": "81,24,27,28,37",
+        "Start up frame": "30 RG",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LPRK 4LP LP LP LP LP (6ive spins)",
+        "Hit level": "!, !, !, !, !, !",
+        "Damage": "81,24,27,28,37,40",
+        "Start up frame": "30 RG",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LP",
+        "Hit level": "m",
+        "Damage": "21",
+        "Start up frame": "20",
+        "Block frame": "-16",
+        "Hit frame": "0 OC",
+        "Counter hit frame": "0 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LP LP",
+        "Hit level": "m, m",
+        "Damage": "21,31",
+        "Start up frame": "20",
+        "Block frame": "-8",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RP",
+        "Hit level": "m",
+        "Damage": "10",
+        "Start up frame": "15 RC",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RP RP",
+        "Hit level": "m, m",
+        "Damage": "10,9",
+        "Start up frame": "15 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RP RP RP",
+        "Hit level": "m, m, m",
+        "Damage": "10,9,7",
+        "Start up frame": "15 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RP RP RP RP",
+        "Hit level": "m, m, m, m",
+        "Damage": "10,9,8,6",
+        "Start up frame": "15 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RP RP RP RP RP",
+        "Hit level": "m, m, m, m, m",
+        "Damage": "10,9,8,6,5",
+        "Start up frame": "15 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RP RP RP RP RP RP",
+        "Hit level": "m, m, m, m, m, m",
+        "Damage": "10,9,8,6,5,4",
+        "Start up frame": "15 RG",
+        "Block frame": "-49~-46",
+        "Hit frame": "-38~-35",
+        "Counter hit frame": "-38~-35",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK 또는 앉은 자세에서 1LK",
+        "Hit level": "l (TC)",
+        "Damage": "13",
+        "Start up frame": "18~19 RC",
+        "Block frame": "-25~-24",
+        "Hit frame": "-14~-13",
+        "Counter hit frame": "-14~-13",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK LK",
+        "Hit level": "l (TC), l (TC)",
+        "Damage": "13,9",
+        "Start up frame": "18~19 RC",
+        "Block frame": "-19~-18",
+        "Hit frame": "-7~-6",
+        "Counter hit frame": "-7~-6",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK LK LK",
+        "Hit level": "l (TC) x 3",
+        "Damage": "13,9,9",
+        "Start up frame": "18~19 RC",
+        "Block frame": "-19~-18",
+        "Hit frame": "-7~-6",
+        "Counter hit frame": "-7~-6",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK LK LK LK",
+        "Hit level": "l (TC) x 4",
+        "Damage": "13,9,9,6",
+        "Start up frame": "18~19 RC",
+        "Block frame": "-19~-18",
+        "Hit frame": "-7~-6",
+        "Counter hit frame": "-7~-6",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK LK LK LK LK",
+        "Hit level": "l (TC) x 5",
+        "Damage": "13,9,9,6,6",
+        "Start up frame": "18~19 RC",
+        "Block frame": "-19~-18",
+        "Hit frame": "-7~-6",
+        "Counter hit frame": "-7~-6",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK LK LK LK LK LK",
+        "Hit level": "l (TC) x 6",
+        "Damage": "13,9,9,6,6,6",
+        "Start up frame": "18~19 RG",
+        "Block frame": "-27",
+        "Hit frame": "-14",
+        "Counter hit frame": "-14",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK LK.. (two to 6ive hits) 6RK",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "12",
+        "Block frame": "-8",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK LK.. (two to 6ive hits) 2LKRK",
+        "Hit level": "l, l, , (IND)",
+        "Damage": "13,9,,",
+        "Start up frame": "12 Air",
+        "Block frame": "-25",
+        "Hit frame": "-13",
+        "Counter hit frame": "-13",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RK",
+        "Hit level": "l",
+        "Damage": "18",
+        "Start up frame": "17",
+        "Block frame": "-12",
+        "Hit frame": "-1",
+        "Counter hit frame": "-1",
+        "Notes": "-"
+    },
+    {
+        "Command": "1N LPRP 또는 앉은 자세에서 1N LPRP (to P2P)",
+        "Hit level": "(Special) (TC)(PDP)",
+        "Damage": "-",
+        "Start up frame": " RC",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "P2P LP 또는 RP",
+        "Hit level": "h!",
+        "Damage": "33",
+        "Start up frame": "22~37 (37~)",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "P2P LK 또는 RK",
+        "Hit level": "m (TJ)",
+        "Damage": "31",
+        "Start up frame": "17~28 (32~)",
+        "Block frame": "-15~-4",
+        "Hit frame": "-13~-2",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP",
+        "Hit level": "h",
+        "Damage": "12",
+        "Start up frame": "17",
+        "Block frame": "+1",
+        "Hit frame": "+7",
+        "Counter hit frame": "+12",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP LP",
+        "Hit level": "h, h",
+        "Damage": "12,10",
+        "Start up frame": "17",
+        "Block frame": "+4",
+        "Hit frame": "+5",
+        "Counter hit frame": "+10",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP LP LP",
+        "Hit level": "h, h, h",
+        "Damage": "12,10,10",
+        "Start up frame": "17",
+        "Block frame": "+4",
+        "Hit frame": "+5",
+        "Counter hit frame": "+10",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP LP LP LP",
+        "Hit level": "h, h, h, h",
+        "Damage": "12,10,10,6",
+        "Start up frame": "17",
+        "Block frame": "+4",
+        "Hit frame": "+5",
+        "Counter hit frame": "+10",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP LP LP LP LP",
+        "Hit level": "h, h, h, h, h",
+        "Damage": "12,10,10,6,6",
+        "Start up frame": "17",
+        "Block frame": "4",
+        "Hit frame": "+5",
+        "Counter hit frame": "+10",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP LP LP LP LP LP",
+        "Hit level": "h, h, h, h, h, h",
+        "Damage": "12,10,10,6,6,6",
+        "Start up frame": "17a,d",
+        "Block frame": "-75",
+        "Hit frame": "-74",
+        "Counter hit frame": "-69",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP , 1LK",
+        "Hit level": "h, , l",
+        "Damage": "12,,9,,",
+        "Start up frame": "17,",
+        "Block frame": "-20",
+        "Hit frame": "-9",
+        "Counter hit frame": "-9",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP LK 또는 RK",
+        "Hit level": "h, (Special)",
+        "Damage": "12",
+        "Start up frame": "17",
+        "Block frame": "-6",
+        "Hit frame": "0",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP LP.. (two to 6ive hits) LK 또는 RK",
+        "Hit level": "h, h, , (Special)",
+        "Damage": "12,10,,,",
+        "Start up frame": "17",
+        "Block frame": "-3",
+        "Hit frame": "-2",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "4RP",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "14",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "+2",
+        "Notes": "-"
+    },
+    {
+        "Command": "4RP LPRP",
+        "Hit level": "m, (KIN)",
+        "Damage": "16",
+        "Start up frame": "14",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "+2",
+        "Notes": "-"
+    },
+    {
+        "Command": "4RP LP",
+        "Hit level": "m, m (TJ)",
+        "Damage": "16,27",
+        "Start up frame": "14",
+        "Block frame": "-17~-16",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "4RP LP LPRP",
+        "Hit level": "m, m (TJ), (KIN)",
+        "Damage": "16,27",
+        "Start up frame": "14",
+        "Block frame": "-7",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "4RP RP",
+        "Hit level": "m, h",
+        "Damage": "16,28",
+        "Start up frame": "14",
+        "Block frame": "-13",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LK 또는 RK (one spin)",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "14",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LK 또는 RK ,,",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "( RG)",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "7LPRP",
+        "Hit level": "!",
+        "Damage": "50?",
+        "Start up frame": "50~51",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "7LPRP LPRP",
+        "Hit level": "h!",
+        "Damage": "24",
+        "Start up frame": "18~19 (37~)",
+        "Block frame": "+1~+2",
+        "Hit frame": "+1~+2",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "7LPRP nLP",
+        "Hit level": "!",
+        "Damage": "29",
+        "Start up frame": "20~104 (21~)",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "7LPRP nLP 4",
+        "Hit level": "!, !",
+        "Damage": "29,29",
+        "Start up frame": "20~50 (26~)",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "8LKRK",
+        "Hit level": "mm (TJ)",
+        "Damage": "13,16",
+        "Start up frame": "39~41, 45~48",
+        "Block frame": "+4~+7s",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "8LKRK (6irst hit only)",
+        "Hit level": "m (TJ)",
+        "Damage": "13",
+        "Start up frame": "39~41",
+        "Block frame": "-9~-7",
+        "Hit frame": "+2~+4s",
+        "Counter hit frame": "+2~+4s",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LP",
+        "Hit level": "m (TJ)",
+        "Damage": "25",
+        "Start up frame": "23 js9",
+        "Block frame": "-6",
+        "Hit frame": "+5s",
+        "Counter hit frame": "JG",
+        "Notes": "-"
+    },
+    {
+        "Command": "9RP",
+        "Hit level": "l (TJ)",
+        "Damage": "25 js10",
+        "Start up frame": "35s",
+        "Block frame": "-16",
+        "Hit frame": "+6g",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LK",
+        "Hit level": "m (TJ)",
+        "Damage": "20",
+        "Start up frame": "15",
+        "Block frame": "-13",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "7RK",
+        "Hit level": "m (TJ)",
+        "Damage": "22",
+        "Start up frame": "20",
+        "Block frame": "-19",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "8 또는 9RK",
+        "Hit level": "m (TJ)",
+        "Damage": "28",
+        "Start up frame": "20",
+        "Block frame": "-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "9LPRP",
+        "Hit level": "! (TJ)",
+        "Damage": "54",
+        "Start up frame": "113~114",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LPRP 2 (6irst stage)",
+        "Hit level": "! (TJ)",
+        "Damage": "27",
+        "Start up frame": "55~56",
+        "Block frame": "+4~+5",
+        "Hit frame": "+4~+5",
+        "Counter hit frame": "+4~+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LPRP 2 (Secon2 stage)",
+        "Hit level": "! (TJ)",
+        "Damage": "40",
+        "Start up frame": "83~84",
+        "Block frame": "+4~+5",
+        "Hit frame": "+4~+5",
+        "Counter hit frame": "+4~+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LPRP LPRP",
+        "Hit level": "(Special) (TJ)(DGF)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LPRP 4",
+        "Hit level": "! (TJ)",
+        "Damage": "47",
+        "Start up frame": "93~94",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LPRP 4 nLPRP",
+        "Hit level": "(Special) (TJ)(DGF)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK",
+        "Hit level": "m (TJ)",
+        "Damage": "27",
+        "Start up frame": "31~34",
+        "Block frame": "-16~-13",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK LPRP",
+        "Hit level": "(Special) (TJ)(DGF)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK LKRK",
+        "Hit level": "m (TJ), m",
+        "Damage": "27,33",
+        "Start up frame": "-",
+        "Block frame": "-12",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK 2LPRP",
+        "Hit level": "m (TJ), m (TJ)(FLE)",
+        "Damage": "27,9",
+        "Start up frame": " Air",
+        "Block frame": "+18 GB",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK 2LKRK",
+        "Hit level": "m (TJ), (IND)",
+        "Damage": "27",
+        "Start up frame": " Air",
+        "Block frame": "-20",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK 4LP",
+        "Hit level": "m (TJ), h",
+        "Damage": "27,10",
+        "Start up frame": "( Air)",
+        "Block frame": "-1~0",
+        "Hit frame": "-43~-42",
+        "Counter hit frame": "-43~-42",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK 4LP LKRK",
+        "Hit level": "m (TJ), h, m (TJ)",
+        "Damage": "27,10,28",
+        "Start up frame": "()",
+        "Block frame": "0~+2 OC",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK 4LP RK",
+        "Hit level": "m (TJ), h, m (TJ)",
+        "Damage": "27,10,20",
+        "Start up frame": "()",
+        "Block frame": "-14~+7",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK 4LP RK 2LP",
+        "Hit level": "m (TJ), h, m (TJ), m",
+        "Damage": "27,10,20,20",
+        "Start up frame": "()",
+        "Block frame": "-5~-4",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LKRK 8 또는 9LKRK",
+        "Hit level": "m (TJ), mm (TJ)",
+        "Damage": "27,13,13",
+        "Start up frame": "()",
+        "Block frame": "-4~-3",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6RP",
+        "Hit level": "m",
+        "Damage": "24",
+        "Start up frame": "15(16~)",
+        "Block frame": "-10",
+        "Hit frame": "+3(Throw)",
+        "Counter hit frame": "+?(Throw)",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6RP Hit in 6rontLPRP",
+        "Hit level": "m((throw))",
+        "Damage": "24,20(6,7,7)?",
+        "Start up frame": "15(16~)",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LK",
+        "Hit level": "m",
+        "Damage": "33",
+        "Start up frame": "23(24~)",
+        "Block frame": "-5",
+        "Hit frame": "+4",
+        "Counter hit frame": "CS 12",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LK LPRP",
+        "Hit level": "m, (KIN)",
+        "Damage": "30",
+        "Start up frame": "23(24~)",
+        "Block frame": "+1",
+        "Hit frame": "+10",
+        "Counter hit frame": "CS 18",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6RK",
+        "Hit level": "m (TJ)",
+        "Damage": "27",
+        "Start up frame": "15~16 RBT (16~)",
+        "Block frame": "-5~-4?",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LPRP",
+        "Hit level": "m",
+        "Damage": "29",
+        "Start up frame": "22~24 RBT (23~)",
+        "Block frame": "-8~-6",
+        "Hit frame": "+3~+5 OC",
+        "Counter hit frame": "+3~+5 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LKRK",
+        "Hit level": "m (TJ)",
+        "Damage": "20",
+        "Start up frame": "22~24 (23~)",
+        "Block frame": "-20~-18",
+        "Hit frame": "-9~-7 OC",
+        "Counter hit frame": "-9~-7 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LKRK LPRP",
+        "Hit level": "m (TJ), m (TJ)",
+        "Damage": "20,20",
+        "Start up frame": "22~24 (23~)",
+        "Block frame": "-31~-25",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LKRK LPRP LKRK",
+        "Hit level": "m (TJ), m (TJ), m (TC)",
+        "Damage": "20,20,27",
+        "Start up frame": "22~24 (23~)",
+        "Block frame": "-13",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LPRK",
+        "Hit level": "!",
+        "Damage": "81",
+        "Start up frame": "45 RG(46~)",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LPRK 6 6",
+        "Hit level": "!, !",
+        "Damage": "81,249",
+        "Start up frame": "45(46~) RG",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LPRK n",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": " RBT",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "4 4LPRK",
+        "Hit level": "!",
+        "Damage": "67",
+        "Start up frame": "59(60~)",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "4 4LPRK 4 (취소)",
+        "Hit level": "(Special), m",
+        "Damage": "28",
+        "Start up frame": "47(48~)",
+        "Block frame": "-15",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 n 2 3LP",
+        "Hit level": "m",
+        "Damage": "22",
+        "Start up frame": "17~18 (17~)",
+        "Block frame": "-15~-14",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 n 2 3LP LPRP",
+        "Hit level": "m, (KIN)",
+        "Damage": "27",
+        "Start up frame": "17~18 (17~)",
+        "Block frame": "-7~-6",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 n 2 3RP",
+        "Hit level": "m (TC)?",
+        "Damage": "-",
+        "Start up frame": "14(14~)",
+        "Block frame": "-14",
+        "Hit frame": "+5?k",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "레이지 도중 6 n6 n 2 3LPRP",
+        "Hit level": "m (TC)?",
+        "Damage": "-",
+        "Start up frame": "14(14~)",
+        "Block frame": "+2?",
+        "Hit frame": "SCD",
+        "Counter hit frame": "SCD",
+        "Notes": "Rage art, Tail spin"
+    },
+    {
+        "Command": "6N23LP",
+        "Hit level": "! (TJ), ! (TJ), !",
+        "Damage": "32,24,33",
+        "Start up frame": "31,38, 58~59",
+        "Block frame": "0~+1 OC",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "0~+1 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6 6LK 또는 RPRKLK",
+        "Hit level": "m (TJ)",
+        "Damage": "40",
+        "Start up frame": "22~23 (25~)",
+        "Block frame": "+9~+10g",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "14~15",
+        "Block frame": "-10~-9",
+        "Hit frame": "+1~+2",
+        "Counter hit frame": "+6~+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP LP",
+        "Hit level": "m, h",
+        "Damage": "20,16",
+        "Start up frame": "14~15",
+        "Block frame": "-11",
+        "Hit frame": "0",
+        "Counter hit frame": "0",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP LP 4LK 또는 RK",
+        "Hit level": "m, h, (Special)",
+        "Damage": "20,16",
+        "Start up frame": "14~15",
+        "Block frame": "-16",
+        "Hit frame": "-5",
+        "Counter hit frame": "-5",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP LP LP",
+        "Hit level": "m, h, h",
+        "Damage": "20,16,16",
+        "Start up frame": "14~15",
+        "Block frame": "-11",
+        "Hit frame": "0",
+        "Counter hit frame": "0",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP LP LP LP",
+        "Hit level": "m, h, h, m",
+        "Damage": "20,16,16,32",
+        "Start up frame": "14~15",
+        "Block frame": "0~+1s",
+        "Hit frame": "+6~+7s",
+        "Counter hit frame": "+6~+7s",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP RP",
+        "Hit level": "m, h",
+        "Damage": "20,24",
+        "Start up frame": "14~15",
+        "Block frame": "-4",
+        "Hit frame": "+13kg",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "일어나며 LP RP 1RP",
+        "Hit level": "m, h, m",
+        "Damage": "20,24,10",
+        "Start up frame": "14~15 RC",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP RP 1RP RP",
+        "Hit level": "m, h, m, m",
+        "Damage": "20,24,10,9",
+        "Start up frame": "14~15 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP RP 1RP RP RP",
+        "Hit level": "m, h, m, m, m",
+        "Damage": "20,24,10,9,8",
+        "Start up frame": "14~15 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP RP 1RP RP RP RP",
+        "Hit level": "m, h, m, m, m, m",
+        "Damage": "20,24,10,9,8,6",
+        "Start up frame": "14~15 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP RP 1RP RP RP RP RP",
+        "Hit level": "m, h, m, m, m, m, m",
+        "Damage": "20,24,10,9,8,6,5",
+        "Start up frame": "14~15 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP RP 1RP RP RP RP RP RP",
+        "Hit level": "m, h, m, m, m, m, m, m",
+        "Damage": "20,24,10,9,8,6,5,4",
+        "Start up frame": "14~15 Air, RG",
+        "Block frame": "-49~-46",
+        "Hit frame": "-38~-35",
+        "Counter hit frame": "-38~-35",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 RP",
+        "Hit level": "m",
+        "Damage": "21",
+        "Start up frame": "15 RBT",
+        "Block frame": "-4",
+        "Hit frame": "+7",
+        "Counter hit frame": "+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 RP LP",
+        "Hit level": "m, m, (DGF)",
+        "Damage": "21,",
+        "Start up frame": "15a",
+        "Block frame": "-9?",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LK 또는 LKRK",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "16",
+        "Block frame": "-6",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LK RP",
+        "Hit level": "m, m",
+        "Damage": "16,27",
+        "Start up frame": "16",
+        "Block frame": "-12s",
+        "Hit frame": "KND",
+        "Counter hit frame": "JG",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 RK",
+        "Hit level": "m",
+        "Damage": "14",
+        "Start up frame": "11",
+        "Block frame": "-6",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 RK LPRP",
+        "Hit level": "m (KIN)",
+        "Damage": "14",
+        "Start up frame": "11",
+        "Block frame": "-6",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "앉은 자세에서 3RK",
+        "Hit level": "l (TC)",
+        "Damage": "18",
+        "Start up frame": "18 RC",
+        "Block frame": "-21",
+        "Hit frame": "+4?s",
+        "Counter hit frame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "앉은 자세에서 3LP 앉은 자세에서 1 4LP",
+        "Hit level": "l!",
+        "Damage": "16",
+        "Start up frame": "25(26~)",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "횡이동 중 LP",
+        "Hit level": "m",
+        "Damage": "28",
+        "Start up frame": "17(26~)",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "횡이동 중 RP",
+        "Hit level": "m",
+        "Damage": "27",
+        "Start up frame": "18(27~)",
+        "Block frame": "-13",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "횡이동 중 RK",
+        "Hit level": "h",
+        "Damage": "28",
+        "Start up frame": "16(25~)",
+        "Block frame": "0",
+        "Hit frame": "KND",
+        "Counter hit frame": "CS",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "횡이동 중 RK LPRP",
+        "Hit level": "h, (KIN)",
+        "Damage": "28",
+        "Start up frame": "16(25~)",
+        "Block frame": "+3",
+        "Hit frame": "KND",
+        "Counter hit frame": "CS",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "횡이동 중 RK LKRK",
+        "Hit level": "h, (MED)",
+        "Damage": "28",
+        "Start up frame": "16 RBT(25~)",
+        "Block frame": "-3",
+        "Hit frame": "KND",
+        "Counter hit frame": "CS",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "Gro8n2e2 6ace 8p LKRK",
+        "Hit level": "(Special) (TC)(IND)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "Opponent 2own 7 또는 8LP",
+        "Hit level": "On grounded opponent(m)",
+        "Damage": "24",
+        "Start up frame": "28",
+        "Block frame": "-13",
+        "Hit frame": "-8 OC",
+        "Counter hit frame": "-8 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "LPRP 또는 앉은 자세에서 LPRP (금타 자세 이행)",
+        "Hit level": "(Special)(Returns move)(KIN)",
+        "Damage": "-",
+        "Start up frame": "28",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 Ret8rns high 또는 mi2 attacks",
+        "Hit level": "Attack returned(mm (TJ))",
+        "Damage": "13,16",
+        "Start up frame": "39~40",
+        "Block frame": "+4~+5s",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 6",
+        "Hit level": "(Special) (TC)(KIN)",
+        "Damage": "-",
+        "Start up frame": "39~40",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 2 (취소)",
+        "Hit level": "(KIN)",
+        "Damage": "-",
+        "Start up frame": "39~40",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 LP",
+        "Hit level": "m",
+        "Damage": "13",
+        "Start up frame": "17(32~)",
+        "Block frame": "-12",
+        "Hit frame": "-1",
+        "Counter hit frame": "-1",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 LP LP",
+        "Hit level": "m, mm",
+        "Damage": "13,6,20",
+        "Start up frame": "17(32~)",
+        "Block frame": "-12",
+        "Hit frame": "+4s",
+        "Counter hit frame": "+4s",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 LP LP RPLK",
+        "Hit level": "m, mm, (NSS)",
+        "Damage": "13,6,20",
+        "Start up frame": "17(32~)",
+        "Block frame": "-28",
+        "Hit frame": "-12 OC",
+        "Counter hit frame": "-12 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 RP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "21(36~)",
+        "Block frame": "-14",
+        "Hit frame": "Launch(JG?)",
+        "Counter hit frame": "Launch(JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 RP LPRP",
+        "Hit level": "m, m",
+        "Damage": "20,40",
+        "Start up frame": "21(36~)",
+        "Block frame": "-18~-17 OC",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 RP LPRPN",
+        "Hit level": "m, m",
+        "Damage": "20,40",
+        "Start up frame": "21(36~)",
+        "Block frame": "-1~0",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 LK",
+        "Hit level": "l (TJ)",
+        "Damage": "17",
+        "Start up frame": "25~32s js10 cs24",
+        "Block frame": "-16~-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 RK",
+        "Hit level": "h",
+        "Damage": "23",
+        "Start up frame": "16(31~)",
+        "Block frame": "0",
+        "Hit frame": "KND",
+        "Counter hit frame": "CS",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "금타 자세에서 RK LPRP",
+        "Hit level": "h, (KIN)",
+        "Damage": "28",
+        "Start up frame": "16(31~)",
+        "Block frame": "+3",
+        "Hit frame": "KND",
+        "Counter hit frame": "CS",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "금타 자세에서 RK LKRK",
+        "Hit level": "h, (MED)",
+        "Damage": "28",
+        "Start up frame": "16 RBT(31~)",
+        "Block frame": "-3",
+        "Hit frame": "KND",
+        "Counter hit frame": "CS",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "금타 자세에서 LPRP",
+        "Hit level": "mmmm (TJ)",
+        "Damage": "4,4,4,24",
+        "Start up frame": "12,19, 27,41 RBT (27~)",
+        "Block frame": "-6~-5",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 6RP",
+        "Hit level": "h",
+        "Damage": "33",
+        "Start up frame": "12(27~)",
+        "Block frame": "-13",
+        "Hit frame": "KND",
+        "Counter hit frame": "SCD",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 4RP",
+        "Hit level": "m",
+        "Damage": "15",
+        "Start up frame": "12(27~)",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "+2",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 4RP LP",
+        "Hit level": "m",
+        "Damage": "15,19",
+        "Start up frame": "12(27~)",
+        "Block frame": "-12",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 4LPRP",
+        "Hit level": "!",
+        "Damage": "30?",
+        "Start up frame": "45?(?~)",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "금타 자세에서 8LPRP",
+        "Hit level": "(Special) (TJ)(KIN)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "LKRK 또는 뒤자세 LKRK (무상 자세 이행)",
+        "Hit level": "(Special)(Recover health)(MED)",
+        "Damage": "-",
+        "Start up frame": " RBT",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 LKRK",
+        "Hit level": "(MED)",
+        "Damage": "-",
+        "Start up frame": " RBT",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 6 또는 4",
+        "Hit level": "(MED)",
+        "Damage": "-",
+        "Start up frame": "+1~",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 LK (전방에 상대가 있을 때)",
+        "Hit level": "m (TJ)",
+        "Damage": "20",
+        "Start up frame": "17~28 RBT",
+        "Block frame": "-14~-3",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 LK (후방에 상대가 있을 때)",
+        "Hit level": "m (TJ)",
+        "Damage": "20",
+        "Start up frame": "29~38 RBT",
+        "Block frame": "+3~+12",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 LPRP",
+        "Hit level": "!",
+        "Damage": "13",
+        "Start up frame": "30~31",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 LPRK",
+        "Hit level": "!",
+        "Damage": "81(,22)",
+        "Start up frame": "30 RG",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 RPLK",
+        "Hit level": "h(Throw)",
+        "Damage": "22",
+        "Start up frame": "38",
+        "Block frame": "-",
+        "Hit frame": "Throw(0)",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 RPLK 6",
+        "Hit level": "h(Throw)",
+        "Damage": "-26",
+        "Start up frame": "38",
+        "Block frame": "-",
+        "Hit frame": "Throw(0)",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "무상 자세 RPRK 또는 무상 자세 LPLK",
+        "Hit level": "h(Throw)",
+        "Damage": "35",
+        "Start up frame": "12",
+        "Block frame": "Throw",
+        "Hit frame": "Throw",
+        "Counter hit frame": "Throw",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LPRP (지뢰인 자세 이행)",
+        "Hit level": "m (TJ)(FLE)",
+        "Damage": "9",
+        "Start up frame": "16 Air~",
+        "Block frame": "+18 GB",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 1 (취소)",
+        "Hit level": "(FLE)",
+        "Damage": "-",
+        "Start up frame": "16~",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 LP",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": " RC",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 RP",
+        "Hit level": "l (TC)",
+        "Damage": "27",
+        "Start up frame": "24~28 RG",
+        "Block frame": "-13~-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 LK 또는 RK",
+        "Hit level": "(Special) (TJ)(FLE)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 LPRP",
+        "Hit level": "h",
+        "Damage": "21?",
+        "Start up frame": "18~19",
+        "Block frame": "-8~-7",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 LKRK",
+        "Hit level": "m (TC)",
+        "Damage": "33",
+        "Start up frame": "25",
+        "Block frame": "-12",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 6 또는 4 (지뢰맹마 이행)",
+        "Hit level": "(Special) (TJ)(WFL)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰맹마 중 LK",
+        "Hit level": "m, (Special)",
+        "Damage": "33(,10,10)",
+        "Start up frame": "17 Air(36~)",
+        "Block frame": "-17",
+        "Hit frame": "Throw(KND)",
+        "Counter hit frame": "Throw(KND)",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰맹마 중 RK",
+        "Hit level": "l",
+        "Damage": "20",
+        "Start up frame": "23 RG(42~)",
+        "Block frame": "-10",
+        "Hit frame": "+11 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 6 6",
+        "Hit level": "m (TJ) x 5, (FLE)",
+        "Damage": "4,4,4,4,4,2",
+        "Start up frame": "8,17,25, 34,43 (9~)",
+        "Block frame": "+6",
+        "Hit frame": "+17",
+        "Counter hit frame": "+17",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 6 6 (후속타가 헛쳤을 때)",
+        "Hit level": "m (TJ) x 4, (FLE)",
+        "Damage": "4,4,4,4,2",
+        "Start up frame": "8,17,25, 34(9~)",
+        "Block frame": "-3",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 2",
+        "Hit level": "(Special) (TC)(FLE)",
+        "Damage": "-",
+        "Start up frame": " RC",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 1 또는 2 또는 3LKRK",
+        "Hit level": "(Special) (TC)(FLE)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 7 또는 8 또는 9LPRP",
+        "Hit level": "(Special) (TJ)(DGF)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 8LKRK",
+        "Hit level": "m (TJ)",
+        "Damage": "40",
+        "Start up frame": "38~39 RG",
+        "Block frame": "+3~+4",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 8LKRK Any 48tton",
+        "Hit level": "m (TJ), (Special)",
+        "Damage": "40",
+        "Start up frame": "38~39",
+        "Block frame": "-9~-8",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "지뢰인 자세 중 7 또는 8 또는 9",
+        "Hit level": "! (TJ), (FLE)",
+        "Damage": "28",
+        "Start up frame": "30~40",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LKRK (만자앉기 자세 이행)",
+        "Hit level": "(Special) (TC)(IND)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 n (만자앉기 자세 이행)",
+        "Hit level": "(Special) (TC)(INS)",
+        "Damage": "-",
+        "Start up frame": " Air",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 LP",
+        "Hit level": "! (TJ)(INS)",
+        "Damage": "20",
+        "Start up frame": "53",
+        "Block frame": "0 OC",
+        "Hit frame": "0 OC",
+        "Counter hit frame": "0 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 RP",
+        "Hit level": "m(INS)",
+        "Damage": "9",
+        "Start up frame": "39 RC",
+        "Block frame": "-9~-8",
+        "Hit frame": "+2~+3",
+        "Counter hit frame": "+2~+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 LK",
+        "Hit level": "m (TJ)(INS)",
+        "Damage": "20",
+        "Start up frame": "32~38",
+        "Block frame": "-31~-25",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 LK LKRK",
+        "Hit level": "m (TJ), m (TJ)(INS)",
+        "Damage": "20,27",
+        "Start up frame": "32~38",
+        "Block frame": "-13",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 RK",
+        "Hit level": "l (TC)(INS)",
+        "Damage": "20",
+        "Start up frame": "18?s",
+        "Block frame": "-21",
+        "Hit frame": "+3? OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 4 또는 6",
+        "Hit level": "(INS)",
+        "Damage": "-",
+        "Start up frame": "( RBT)",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 LKRKN 2 또는 4 또는 6 또는 8",
+        "Hit level": "(INS)",
+        "Damage": "-",
+        "Start up frame": "()",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 LPRP",
+        "Hit level": "(Special) (TJ)(FLE)",
+        "Damage": "-",
+        "Start up frame": "a",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만자앉기 중 8LPRP",
+        "Hit level": "(Special) (TJ)(INS)",
+        "Damage": "-",
+        "Start up frame": "a",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "8LPRP (만잠자리 잦세 이행)",
+        "Hit level": "(Special) (TJ)(DGF)",
+        "Damage": "-",
+        "Start up frame": "a",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만잠자리 자세 중 4 또는 6",
+        "Hit level": "(Special) (TJ)",
+        "Damage": "-",
+        "Start up frame": "a",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만잠자리 자세 중 1 또는 2 또는 3 (취소)",
+        "Hit level": "(DGF)",
+        "Damage": "-",
+        "Start up frame": "-",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만잠자리 자세 중 LP",
+        "Hit level": "!",
+        "Damage": "20",
+        "Start up frame": "30(40~)",
+        "Block frame": "0s",
+        "Hit frame": "0s",
+        "Counter hit frame": "0s",
+        "Notes": "-"
+    },
+    {
+        "Command": "만잠자리 자세 중 RP",
+        "Hit level": "h (TJ)(DGF)",
+        "Damage": "20",
+        "Start up frame": "16~17a (26~)",
+        "Block frame": "+4~+5",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "만잠자리 자세 중 LK",
+        "Hit level": "l (TC)",
+        "Damage": "24",
+        "Start up frame": "22 RC(32~)",
+        "Block frame": "-14",
+        "Hit frame": "+5?s",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "만잠자리 자세 중 RK",
+        "Hit level": "m (TJ)",
+        "Damage": "33",
+        "Start up frame": "19~20 (29~)",
+        "Block frame": "-6~-5?",
+        "Hit frame": "+14k",
+        "Counter hit frame": "KND",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "만잠자리 자세 중 LPRP",
+        "Hit level": "(Special) (TJ)(FLE)",
+        "Damage": "-",
+        "Start up frame": "a",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "만잠자리 자세 중 LKRK",
+        "Hit level": "h!, ( (Sky))(throw)",
+        "Damage": "22,18",
+        "Start up frame": "20~21 (30~)",
+        "Block frame": "Throw",
+        "Hit frame": "Throw",
+        "Counter hit frame": "Throw",
+        "Notes": "-"
+    },
+    {
+        "Command": "만잠자리 자세 중 6RP",
+        "Hit level": "h(DGF)",
+        "Damage": "-",
+        "Start up frame": "18?a",
+        "Block frame": "-?",
+        "Hit frame": "KND",
+        "Counter hit frame": "SCD",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "만잠자리 자세 중 2LKRK",
+        "Hit level": "(Special) (TC)(IND)",
+        "Damage": "-",
+        "Start up frame": "a",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 LP",
+        "Hit level": "h",
+        "Damage": "21",
+        "Start up frame": "15 RBT",
+        "Block frame": "-6",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 LP RP",
+        "Hit level": "h, m",
+        "Damage": "21,24",
+        "Start up frame": "15 RBT",
+        "Block frame": "-5",
+        "Hit frame": "+5",
+        "Counter hit frame": "hKZD",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 LP LK",
+        "Hit level": "h, h",
+        "Damage": "21,33",
+        "Start up frame": "15",
+        "Block frame": "-7",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 RP",
+        "Hit level": "h",
+        "Damage": "24",
+        "Start up frame": "16",
+        "Block frame": "-4",
+        "Hit frame": "+13kg",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "뒤자세 RP 1RP",
+        "Hit level": "h, m",
+        "Damage": "24,10",
+        "Start up frame": "16 RC",
+        "Block frame": "-5~-4",
+        "Hit frame": "+6~+7",
+        "Counter hit frame": "+6~+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 LK",
+        "Hit level": "m (TJ)",
+        "Damage": "27",
+        "Start up frame": "24~25 RBT",
+        "Block frame": "-3~-2",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 1 또는 2 또는 3LP",
+        "Hit level": "l (TC)",
+        "Damage": "27",
+        "Start up frame": "17 RC",
+        "Block frame": "-13",
+        "Hit frame": "+3",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 8RPLK",
+        "Hit level": "!",
+        "Damage": "60",
+        "Start up frame": "50~51 RBT",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "RPLK (납도로 전환)",
+        "Hit level": "(NSS)",
+        "Damage": "-",
+        "Start up frame": "50~51",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 RPLK",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "50~51",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 LP",
+        "Hit level": "h",
+        "Damage": "9",
+        "Start up frame": "10",
+        "Block frame": "+1",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 LP RP",
+        "Hit level": "h, m",
+        "Damage": "9,10",
+        "Start up frame": "10",
+        "Block frame": "-13~-12",
+        "Hit frame": "-2~-1",
+        "Counter hit frame": "-2~-1",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 LP RP LP",
+        "Hit level": "h, m, m",
+        "Damage": "9,10,8",
+        "Start up frame": "10",
+        "Block frame": "-12",
+        "Hit frame": "-1",
+        "Counter hit frame": "-1",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 RP",
+        "Hit level": "h",
+        "Damage": "13",
+        "Start up frame": "10",
+        "Block frame": "-1",
+        "Hit frame": "+5",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 RP LP",
+        "Hit level": "h, hh",
+        "Damage": "13,6,13",
+        "Start up frame": "10",
+        "Block frame": "-12",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 LPRK 또는 앉은 자세에서 LPRP",
+        "Hit level": "m, (Special)",
+        "Damage": "28",
+        "Start up frame": "8~9",
+        "Block frame": "-16~-15",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 RK~LP",
+        "Hit level": "m, (Special)",
+        "Damage": "28",
+        "Start up frame": "8~9 (9~)",
+        "Block frame": "-16~-15",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 LPRPLK",
+        "Hit level": "h",
+        "Damage": "33",
+        "Start up frame": "22",
+        "Block frame": "-18",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6LPRP",
+        "Hit level": "m (TC)",
+        "Damage": "33",
+        "Start up frame": "16~17 RC",
+        "Block frame": "-13~-12",
+        "Hit frame": "+4~+5",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6LKRK",
+        "Hit level": "m",
+        "Damage": "27",
+        "Start up frame": "21~25?",
+        "Block frame": "-14~-10?",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Power crush"
+    },
+    {
+        "Command": "납도 중 3LK",
+        "Hit level": "m",
+        "Damage": "13",
+        "Start up frame": "17~18 RC",
+        "Block frame": "-4~-3",
+        "Hit frame": "+4~+5",
+        "Counter hit frame": "+4~+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 3LK LP",
+        "Hit level": "m, m",
+        "Damage": "13,16",
+        "Start up frame": "17~18",
+        "Block frame": "-5",
+        "Hit frame": "+5 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 2LP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "24~25",
+        "Block frame": "-7~-6 OC",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 2LPRK",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "24~25",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 2RP LP",
+        "Hit level": "m (TC), h",
+        "Damage": "16,22",
+        "Start up frame": "24~25",
+        "Block frame": "\u2013",
+        "Hit frame": "+k",
+        "Counter hit frame": "-",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "납도 중 1LP",
+        "Hit level": "Sm (TC)",
+        "Damage": "6",
+        "Start up frame": "11 RC",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 4RP",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "14",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "+2",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 4RP RP",
+        "Hit level": "m, h",
+        "Damage": "16,24",
+        "Start up frame": "14",
+        "Block frame": "-10",
+        "Hit frame": "0",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 7LPRP",
+        "Hit level": "!",
+        "Damage": "67",
+        "Start up frame": "51",
+        "Block frame": "CS",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 7LPRP LP",
+        "Hit level": "h!",
+        "Damage": "54",
+        "Start up frame": "20(21~)",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 7LPRP LPRP",
+        "Hit level": "h",
+        "Damage": "20",
+        "Start up frame": "18~19 (37~)",
+        "Block frame": "-15~-14",
+        "Hit frame": "-4~-3",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 8LPRP",
+        "Hit level": "l (TJ), (IND)",
+        "Damage": "24",
+        "Start up frame": "27 Air",
+        "Block frame": "+4 OC",
+        "Hit frame": "+20 OC",
+        "Counter hit frame": "+20 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 9LKRK 4LP RK 2LP",
+        "Hit level": "m (TJ), h, m (TJ), m",
+        "Damage": "27,10,20,20",
+        "Start up frame": "27",
+        "Block frame": "-7~-6 OC",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 4 4LPRK",
+        "Hit level": "!",
+        "Damage": "54",
+        "Start up frame": "65~70 (66~)",
+        "Block frame": "KND",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 4 4LPRK 4 (취소)",
+        "Hit level": "(Special), m",
+        "Damage": "28",
+        "Start up frame": "47(48~)",
+        "Block frame": "-15",
+        "Hit frame": "CS",
+        "Counter hit frame": "CS",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6 6LPRK",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": " RBT",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6N23LP",
+        "Hit level": "m (TJ)",
+        "Damage": "40",
+        "Start up frame": "53~55 (53~)",
+        "Block frame": "-8~-6 OC",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 일어나며 RP LP",
+        "Hit level": "m, h",
+        "Damage": "21,21",
+        "Start up frame": "53~55 (53~) RBT",
+        "Block frame": "-6",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 일어나며 RP LP RP",
+        "Hit level": "m, h, m",
+        "Damage": "21,21,24",
+        "Start up frame": "53~55 (53~) RBT",
+        "Block frame": "-5",
+        "Hit frame": "+5",
+        "Counter hit frame": "FS(+10 GB) 18",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 일어나며 RP LP LK",
+        "Hit level": "m, h, h",
+        "Damage": "21,21,33",
+        "Start up frame": "53~55 (53~)",
+        "Block frame": "-7",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 앉은 자세에서 1 4LP 앉은 자세에서 3LP",
+        "Hit level": "l",
+        "Damage": "16",
+        "Start up frame": "25~26 (26~)",
+        "Block frame": "-14~-13?",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 앉은 자세에서 1 4LP RP",
+        "Hit level": "l, l",
+        "Damage": "16,27",
+        "Start up frame": "25~26 (26~)",
+        "Block frame": "-20",
+        "Hit frame": "+14",
+        "Counter hit frame": "+14",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 앉은 자세에서 3LK",
+        "Hit level": "l",
+        "Damage": "-",
+        "Start up frame": "18?(19?~)",
+        "Block frame": "-19?",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 뒤자세 1 또는 2 또는 3LP",
+        "Hit level": "l (TC)",
+        "Damage": "20",
+        "Start up frame": "17 RC",
+        "Block frame": "-13",
+        "Hit frame": "+3",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 만자앉기 중 LP",
+        "Hit level": "m (TJ)(INS)",
+        "Damage": "20",
+        "Start up frame": "48~51",
+        "Block frame": "-8~-5 OC",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 2LPRP 또는 2LKRK (만자앉기 자세 이행)",
+        "Hit level": "(IND)",
+        "Damage": "-",
+        "Start up frame": "48~51",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 9LPRP",
+        "Hit level": "(Special) (TJ)",
+        "Damage": "-",
+        "Start up frame": " RC",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 금타 자세에서 LP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "16~17",
+        "Block frame": "-8~-7 OC",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "LP",
+        "Hit level": "h",
+        "Damage": "9",
+        "Start up frame": "10",
+        "Block frame": "+1",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "RP",
+        "Hit level": "h",
+        "Damage": "13",
+        "Start up frame": "10",
+        "Block frame": "-1",
+        "Hit frame": "+5",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "LK",
+        "Hit level": "h",
+        "Damage": "20",
+        "Start up frame": "12",
+        "Block frame": "-9",
+        "Hit frame": "+5",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "RK",
+        "Hit level": "h",
+        "Damage": "22",
+        "Start up frame": "15",
+        "Block frame": "-11",
+        "Hit frame": "0",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LP",
+        "Hit level": "h",
+        "Damage": "12",
+        "Start up frame": "17",
+        "Block frame": "+1",
+        "Hit frame": "+7",
+        "Counter hit frame": "+12",
+        "Notes": "-"
+    },
+    {
+        "Command": "4RP",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "14",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "+2",
+        "Notes": "-"
+    },
+    {
+        "Command": "4LK (시계방향 횡이동)",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "14",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "4RK (반시계방향 횡이동)",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "14",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "6LP",
+        "Hit level": "h",
+        "Damage": "9",
+        "Start up frame": "10",
+        "Block frame": "+1",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "6RP",
+        "Hit level": "h",
+        "Damage": "24",
+        "Start up frame": "17",
+        "Block frame": "-4",
+        "Hit frame": "+k",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "6LK",
+        "Hit level": "h",
+        "Damage": "32",
+        "Start up frame": "16",
+        "Block frame": "-10",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "6RK",
+        "Hit level": "m",
+        "Damage": "33",
+        "Start up frame": "18",
+        "Block frame": "-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Wall bounce"
+    },
+    {
+        "Command": "6 6LP",
+        "Hit level": "h",
+        "Damage": "9",
+        "Start up frame": "10(11~)",
+        "Block frame": "+1",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6RP",
+        "Hit level": "m",
+        "Damage": "24",
+        "Start up frame": "15(16~)",
+        "Block frame": "-10",
+        "Hit frame": "+3(Throw)",
+        "Counter hit frame": "+?(Throw)",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6LK",
+        "Hit level": "m",
+        "Damage": "33",
+        "Start up frame": "23(24~)",
+        "Block frame": "-5",
+        "Hit frame": "+4",
+        "Counter hit frame": "CS 12",
+        "Notes": "-"
+    },
+    {
+        "Command": "6 6RK",
+        "Hit level": "m (TJ)",
+        "Damage": "27",
+        "Start up frame": "15~16 RBT (16~)",
+        "Block frame": "-6~-5",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "24~25",
+        "Block frame": "-5~-4",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "2RP",
+        "Hit level": "m (TC)",
+        "Damage": "16",
+        "Start up frame": "16~17",
+        "Block frame": "-9~-8",
+        "Hit frame": "0~+1",
+        "Counter hit frame": "0~+1",
+        "Notes": "-"
+    },
+    {
+        "Command": "2LK",
+        "Hit level": "l (TC)",
+        "Damage": "16",
+        "Start up frame": "15~16 RC",
+        "Block frame": "-18~-17",
+        "Hit frame": "-4~-3",
+        "Counter hit frame": "-4~-3",
+        "Notes": "-"
+    },
+    {
+        "Command": "2RK",
+        "Hit level": "l (TC)",
+        "Damage": "9",
+        "Start up frame": "12 RC",
+        "Block frame": "-13",
+        "Hit frame": "-2",
+        "Counter hit frame": "-2",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LP",
+        "Hit level": "m",
+        "Damage": "21",
+        "Start up frame": "20",
+        "Block frame": "-16",
+        "Hit frame": "0 OC",
+        "Counter hit frame": "0 OC",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RP",
+        "Hit level": "m",
+        "Damage": "10",
+        "Start up frame": "15s",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LK",
+        "Hit level": "l (TC)",
+        "Damage": "13",
+        "Start up frame": "18~19 RC",
+        "Block frame": "-25~-24",
+        "Hit frame": "-14~-13",
+        "Counter hit frame": "-14~-13",
+        "Notes": "-"
+    },
+    {
+        "Command": "1RK",
+        "Hit level": "l",
+        "Damage": "18",
+        "Start up frame": "17",
+        "Block frame": "-12",
+        "Hit frame": "-1",
+        "Counter hit frame": "-1",
+        "Notes": "-"
+    },
+    {
+        "Command": "1LKRK홀드",
+        "Hit level": "l (TC)",
+        "Damage": "16",
+        "Start up frame": "16 RC",
+        "Block frame": "-17",
+        "Hit frame": "-3",
+        "Counter hit frame": "-3",
+        "Notes": "-"
+    },
+    {
+        "Command": "앉은 자세에서 LP",
+        "Hit level": "Sm (TC)",
+        "Damage": "6",
+        "Start up frame": "10s",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "앉은 자세에서 RP",
+        "Hit level": "Sm (TC)",
+        "Damage": "10",
+        "Start up frame": "11s",
+        "Block frame": "-4",
+        "Hit frame": "+7",
+        "Counter hit frame": "+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "앉은 자세에서 1LK",
+        "Hit level": "l (TC)",
+        "Damage": "13",
+        "Start up frame": "18~19s",
+        "Block frame": "-25~-24",
+        "Hit frame": "-14~-13",
+        "Counter hit frame": "-14~-13",
+        "Notes": "-"
+    },
+    {
+        "Command": "앉은 자세에서 2 또는 3LK",
+        "Hit level": "l (TC)",
+        "Damage": "16",
+        "Start up frame": "16s",
+        "Block frame": "-17",
+        "Hit frame": "-3",
+        "Counter hit frame": "-3",
+        "Notes": "-"
+    },
+    {
+        "Command": "앉은 자세에서 1 또는 2RK",
+        "Hit level": "l (TC)",
+        "Damage": "13",
+        "Start up frame": "12s",
+        "Block frame": "-15",
+        "Hit frame": "-4",
+        "Counter hit frame": "-4",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "14~15",
+        "Block frame": "-10~-9",
+        "Hit frame": "+1~+2",
+        "Counter hit frame": "+6~+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 RP",
+        "Hit level": "m",
+        "Damage": "21",
+        "Start up frame": "15 RBT",
+        "Block frame": "-4",
+        "Hit frame": "+7",
+        "Counter hit frame": "+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LPRP",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "10~11",
+        "Block frame": "-4~-3",
+        "Hit frame": "+7~+8",
+        "Counter hit frame": "+7~+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 LK 또는 LKRK",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "16",
+        "Block frame": "-6",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "일어나며 RK",
+        "Hit level": "m",
+        "Damage": "18",
+        "Start up frame": "11~12",
+        "Block frame": "-6~-5",
+        "Hit frame": "+5~+6",
+        "Counter hit frame": "+5~+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "3LP",
+        "Hit level": "m",
+        "Damage": "18",
+        "Start up frame": "13",
+        "Block frame": "-4",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "3RP",
+        "Hit level": "m",
+        "Damage": "17",
+        "Start up frame": "15~16",
+        "Block frame": "-7~-6",
+        "Hit frame": "Launch (JG?)(+4a)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "3LK",
+        "Hit level": "m",
+        "Damage": "13",
+        "Start up frame": "17~18 RC",
+        "Block frame": "-4~-3",
+        "Hit frame": "+4~+5",
+        "Counter hit frame": "+4~+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "3RK",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "12",
+        "Block frame": "-9",
+        "Hit frame": "+4",
+        "Counter hit frame": "+4",
+        "Notes": "-"
+    },
+    {
+        "Command": "7 또는 8LP",
+        "Hit level": "m (TJ)",
+        "Damage": "16",
+        "Start up frame": "18",
+        "Block frame": "-8",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LP",
+        "Hit level": "m (TJ)",
+        "Damage": "-",
+        "Start up frame": "18",
+        "Block frame": "-5,6?",
+        "Hit frame": "+s",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "7 또는 8RP",
+        "Hit level": "h",
+        "Damage": "22",
+        "Start up frame": "15",
+        "Block frame": "-12",
+        "Hit frame": "+9 GB",
+        "Counter hit frame": "+9 GB",
+        "Notes": "-"
+    },
+    {
+        "Command": "9RP",
+        "Hit level": "l (TJ)",
+        "Damage": "25?",
+        "Start up frame": "35s",
+        "Block frame": "-16",
+        "Hit frame": "+8?",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "7 또는 8LK",
+        "Hit level": "m (TJ)",
+        "Damage": "33",
+        "Start up frame": "23",
+        "Block frame": "-29",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "9LK",
+        "Hit level": "m (TJ)",
+        "Damage": "20",
+        "Start up frame": "15",
+        "Block frame": "-13",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "7RK",
+        "Hit level": "m (TJ)",
+        "Damage": "22",
+        "Start up frame": "20",
+        "Block frame": "-19",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "8 또는 9RK",
+        "Hit level": "m (TJ)",
+        "Damage": "28",
+        "Start up frame": "20",
+        "Block frame": "-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "횡이동 중 LP",
+        "Hit level": "m",
+        "Damage": "28",
+        "Start up frame": "17(26~)",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "횡이동 중 RP",
+        "Hit level": "m",
+        "Damage": "27",
+        "Start up frame": "18(27~)",
+        "Block frame": "-13",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "횡이동 중 LK",
+        "Hit level": "h",
+        "Damage": "20",
+        "Start up frame": "12(13~)",
+        "Block frame": "-9",
+        "Hit frame": "+5",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "횡이동 중 RK",
+        "Hit level": "h",
+        "Damage": "28",
+        "Start up frame": "16(25~)",
+        "Block frame": "0",
+        "Hit frame": "KND",
+        "Counter hit frame": "CS",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "뒤자세 LP",
+        "Hit level": "h",
+        "Damage": "21",
+        "Start up frame": "15 RBT",
+        "Block frame": "-6",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 RP",
+        "Hit level": "h",
+        "Damage": "24",
+        "Start up frame": "16",
+        "Block frame": "-4",
+        "Hit frame": "+k",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "뒤자세 LK",
+        "Hit level": "m (TJ)",
+        "Damage": "27",
+        "Start up frame": "24~25 RBT",
+        "Block frame": "-3~-2",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 LPRP",
+        "Hit level": "h",
+        "Damage": "20",
+        "Start up frame": "8",
+        "Block frame": "-8",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 RK",
+        "Hit level": "h",
+        "Damage": "33",
+        "Start up frame": "10",
+        "Block frame": "-8",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 1RP",
+        "Hit level": "m",
+        "Damage": "10",
+        "Start up frame": "15SB",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 2 또는 3RP",
+        "Hit level": "Sm",
+        "Damage": "13",
+        "Start up frame": "8 RC",
+        "Block frame": "-2",
+        "Hit frame": "+9",
+        "Counter hit frame": "+9",
+        "Notes": "-"
+    },
+    {
+        "Command": "뒤자세 2RK 또는 2LK",
+        "Hit level": "l",
+        "Damage": "16",
+        "Start up frame": "10 RC",
+        "Block frame": "-8",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 LP",
+        "Hit level": "h",
+        "Damage": "9",
+        "Start up frame": "10",
+        "Block frame": "+1",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 RP",
+        "Hit level": "h",
+        "Damage": "13",
+        "Start up frame": "10",
+        "Block frame": "-1",
+        "Hit frame": "+5",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 LK",
+        "Hit level": "h",
+        "Damage": "20",
+        "Start up frame": "12",
+        "Block frame": "-9",
+        "Hit frame": "+5",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 RK",
+        "Hit level": "h",
+        "Damage": "22",
+        "Start up frame": "15",
+        "Block frame": "-11",
+        "Hit frame": "0",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 4LP",
+        "Hit level": "h",
+        "Damage": "12",
+        "Start up frame": "17",
+        "Block frame": "+1",
+        "Hit frame": "+7",
+        "Counter hit frame": "+12",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 4RP",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "15",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "+2",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 4LK (시계방향 횡이동)",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "15",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 4RK (반시계방향 횡이동)",
+        "Hit level": "(Special)",
+        "Damage": "-",
+        "Start up frame": "15",
+        "Block frame": "-",
+        "Hit frame": "-",
+        "Counter hit frame": "-",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6LP",
+        "Hit level": "h",
+        "Damage": "9",
+        "Start up frame": "10",
+        "Block frame": "+1",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6RP",
+        "Hit level": "h",
+        "Damage": "24",
+        "Start up frame": "17",
+        "Block frame": "-4",
+        "Hit frame": "+k",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "납도 중 6LK",
+        "Hit level": "h",
+        "Damage": "32",
+        "Start up frame": "16",
+        "Block frame": "-10",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "납도 중 6RK",
+        "Hit level": "m",
+        "Damage": "33",
+        "Start up frame": "18",
+        "Block frame": "-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6 6LP",
+        "Hit level": "h",
+        "Damage": "9",
+        "Start up frame": "10(11~)",
+        "Block frame": "+1",
+        "Hit frame": "+8",
+        "Counter hit frame": "+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6 6RP",
+        "Hit level": "m",
+        "Damage": "24",
+        "Start up frame": "15(16~)",
+        "Block frame": "-10",
+        "Hit frame": "+3(Throw)",
+        "Counter hit frame": "+?(Throw)",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6 6LK",
+        "Hit level": "m",
+        "Damage": "33",
+        "Start up frame": "23(24~)",
+        "Block frame": "-5",
+        "Hit frame": "+4",
+        "Counter hit frame": "CS 12",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 6 6RK",
+        "Hit level": "m (TJ)",
+        "Damage": "27",
+        "Start up frame": "15~16 RBT (16~)",
+        "Block frame": "-6~-5",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 2LP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "24~25",
+        "Block frame": "-7~-6 OC",
+        "Hit frame": "0~+1 OC",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 2RP",
+        "Hit level": "m (TC)",
+        "Damage": "16",
+        "Start up frame": "16~17",
+        "Block frame": "-9~-8",
+        "Hit frame": "0~+1",
+        "Counter hit frame": "0~+1",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 2LK",
+        "Hit level": "l (TC)",
+        "Damage": "16",
+        "Start up frame": "15~16 RC",
+        "Block frame": "-18~-17",
+        "Hit frame": "-4~-3",
+        "Counter hit frame": "-4~-3",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 2RK",
+        "Hit level": "l (TC)",
+        "Damage": "9",
+        "Start up frame": "12 RC",
+        "Block frame": "-13",
+        "Hit frame": "-2",
+        "Counter hit frame": "-2",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 1LP",
+        "Hit level": "Sm (TC)",
+        "Damage": "6",
+        "Start up frame": "11 RC",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 1RP",
+        "Hit level": "m",
+        "Damage": "10",
+        "Start up frame": "15 RC",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 1LK",
+        "Hit level": "l (TC)",
+        "Damage": "13",
+        "Start up frame": "18~19 RC",
+        "Block frame": "-25~-24",
+        "Hit frame": "-14~-13",
+        "Counter hit frame": "-14~-13",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 1RK",
+        "Hit level": "l",
+        "Damage": "18",
+        "Start up frame": "17",
+        "Block frame": "-12",
+        "Hit frame": "-1",
+        "Counter hit frame": "-1",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 1LKRK홀드",
+        "Hit level": "l (TC)",
+        "Damage": "16",
+        "Start up frame": "16 RC",
+        "Block frame": "-17",
+        "Hit frame": "-3",
+        "Counter hit frame": "-3",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 앉은 자세에서 LP",
+        "Hit level": "Sm (TC)",
+        "Damage": "6",
+        "Start up frame": "10 RC",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 앉은 자세에서 RP",
+        "Hit level": "Sm (TC)",
+        "Damage": "10",
+        "Start up frame": "11 RC",
+        "Block frame": "-4",
+        "Hit frame": "+7",
+        "Counter hit frame": "+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 앉은 자세에서 1LK",
+        "Hit level": "l (TC)",
+        "Damage": "13",
+        "Start up frame": "18~19 RC",
+        "Block frame": "-25~-24",
+        "Hit frame": "-14~-13",
+        "Counter hit frame": "-14~-13",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 앉은 자세에서 2LK",
+        "Hit level": "l (TC)",
+        "Damage": "16",
+        "Start up frame": "16 RC",
+        "Block frame": "-17",
+        "Hit frame": "-3",
+        "Counter hit frame": "-3",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 앉은 자세에서 1 또는 2RK",
+        "Hit level": "l (TC)",
+        "Damage": "13",
+        "Start up frame": "12 RC",
+        "Block frame": "-15",
+        "Hit frame": "-4",
+        "Counter hit frame": "-4",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 일어나며 LP",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "14~15",
+        "Block frame": "-10~-9",
+        "Hit frame": "+1~+2",
+        "Counter hit frame": "+6~+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 일어나며 RP",
+        "Hit level": "m",
+        "Damage": "21",
+        "Start up frame": "15 RBT",
+        "Block frame": "-4",
+        "Hit frame": "+7",
+        "Counter hit frame": "+7",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 일어나며 LPRP",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "10~11",
+        "Block frame": "-4~-3",
+        "Hit frame": "+7~+8",
+        "Counter hit frame": "+7~+8",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 일어나며 LK 또는 LKRK",
+        "Hit level": "m",
+        "Damage": "16",
+        "Start up frame": "16",
+        "Block frame": "-6",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 일어나며 RK",
+        "Hit level": "m",
+        "Damage": "18",
+        "Start up frame": "11~12",
+        "Block frame": "-6~-5",
+        "Hit frame": "+5~+6",
+        "Counter hit frame": "+5~+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 3LP",
+        "Hit level": "m",
+        "Damage": "18",
+        "Start up frame": "13",
+        "Block frame": "-4",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 3RP",
+        "Hit level": "m",
+        "Damage": "17",
+        "Start up frame": "15~16",
+        "Block frame": "-7~-6",
+        "Hit frame": "Launch (JG?)(+4)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 3LK",
+        "Hit level": "m",
+        "Damage": "13",
+        "Start up frame": "17~18s",
+        "Block frame": "-4~-3",
+        "Hit frame": "+4~+5",
+        "Counter hit frame": "+4~+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 3RK",
+        "Hit level": "m",
+        "Damage": "20",
+        "Start up frame": "12",
+        "Block frame": "-9",
+        "Hit frame": "+4",
+        "Counter hit frame": "+4",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 7 또는 8 또는 9LP",
+        "Hit level": "m (TJ)",
+        "Damage": "16",
+        "Start up frame": "18",
+        "Block frame": "-8",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 7 또는 8RP",
+        "Hit level": "h",
+        "Damage": "28",
+        "Start up frame": "15",
+        "Block frame": "-12",
+        "Hit frame": "+9 GB",
+        "Counter hit frame": "+9 GB",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 9RP",
+        "Hit level": "l (TJ)",
+        "Damage": "25",
+        "Start up frame": "35 RC",
+        "Block frame": "-18",
+        "Hit frame": "+4",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 7 또는 8LK",
+        "Hit level": "m (TJ)",
+        "Damage": "33",
+        "Start up frame": "23",
+        "Block frame": "-29",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 9LK",
+        "Hit level": "m (TJ)",
+        "Damage": "20",
+        "Start up frame": "15",
+        "Block frame": "-13",
+        "Hit frame": "Launch (JG?)",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 7RK",
+        "Hit level": "m (TJ)",
+        "Damage": "22",
+        "Start up frame": "20",
+        "Block frame": "-19",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 8 또는 9RK",
+        "Hit level": "m (TJ)",
+        "Damage": "28",
+        "Start up frame": "20",
+        "Block frame": "-9",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "Homing"
+    },
+    {
+        "Command": "납도 중 횡이동 중 LP",
+        "Hit level": "m",
+        "Damage": "28",
+        "Start up frame": "17(26~)",
+        "Block frame": "-9",
+        "Hit frame": "+2",
+        "Counter hit frame": "Launch (JG?)",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 횡이동 중 RP",
+        "Hit level": "m",
+        "Damage": "27",
+        "Start up frame": "18(27~)",
+        "Block frame": "-13",
+        "Hit frame": "Launch",
+        "Counter hit frame": "Launch",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 횡이동 중 LK",
+        "Hit level": "h",
+        "Damage": "20",
+        "Start up frame": "12(13~)",
+        "Block frame": "-9",
+        "Hit frame": "+5",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 횡이동 중 RK",
+        "Hit level": "h",
+        "Damage": "28",
+        "Start up frame": "16(25~)",
+        "Block frame": "0",
+        "Hit frame": "KND",
+        "Counter hit frame": "CS",
+        "Notes": "Homing, Tail spin"
+    },
+    {
+        "Command": "납도 중 뒤자세 LP",
+        "Hit level": "h",
+        "Damage": "21",
+        "Start up frame": "15 RBT",
+        "Block frame": "-6",
+        "Hit frame": "+5",
+        "Counter hit frame": "+5",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 뒤자세 RP",
+        "Hit level": "h",
+        "Damage": "24",
+        "Start up frame": "16",
+        "Block frame": "-4",
+        "Hit frame": "+k",
+        "Counter hit frame": "SCD",
+        "Notes": "Tail spin"
+    },
+    {
+        "Command": "납도 중 뒤자세 LK",
+        "Hit level": "m (TJ)",
+        "Damage": "27",
+        "Start up frame": "24~25 RBT",
+        "Block frame": "-3~-2",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 뒤자세 LPRP",
+        "Hit level": "h",
+        "Damage": "20",
+        "Start up frame": "8",
+        "Block frame": "-8",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 뒤자세 RK",
+        "Hit level": "h",
+        "Damage": "33",
+        "Start up frame": "10",
+        "Block frame": "-8",
+        "Hit frame": "KND",
+        "Counter hit frame": "KND",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 뒤자세 1RP",
+        "Hit level": "m",
+        "Damage": "10",
+        "Start up frame": "15SB",
+        "Block frame": "-5",
+        "Hit frame": "+6",
+        "Counter hit frame": "+6",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 뒤자세 2 또는 3RP",
+        "Hit level": "Sm",
+        "Damage": "13",
+        "Start up frame": "10 RC",
+        "Block frame": "-2",
+        "Hit frame": "+9",
+        "Counter hit frame": "+9",
+        "Notes": "-"
+    },
+    {
+        "Command": "납도 중 뒤자세 2RK 또는 2LK",
+        "Hit level": "l",
+        "Damage": "16",
+        "Start up frame": "10 RC",
+        "Block frame": "-8",
+        "Hit frame": "+3",
+        "Counter hit frame": "+3",
+        "Notes": "-"
+    }
+]
