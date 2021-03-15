@@ -1940,7 +1940,7 @@
         "Notes": "-"
     },
     {
-        "Command": "KIN b+2,1",
+        "Command": "KIN b+2, 1",
         "Hit level": "m",
         "Damage": "15,19",
         "Start up frame": "12(27~)",
