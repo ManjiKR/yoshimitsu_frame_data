@@ -1,6 +1,6 @@
 [
     {
-        "Command": "레이지 도중 4LPRP",
+        "Command": "레이지 도중 4AP",
         "Hit level": "중",
         "Damage": "-",
         "Start up frame": "20?",
@@ -100,7 +100,7 @@
         "Notes": "-"
     },
     {
-        "Command": "RP RP LPRP",
+        "Command": "RP RP AP",
         "Hit level": "상 상 (금타)",
         "Damage": "13,10",
         "Start up frame": "10",
@@ -131,7 +131,7 @@
     },
     {
         "Command": "LK~RK",
-        "Hit level": "중중 (점프)",
+        "Hit level": "중중 (하단 회피)",
         "Damage": "16,21",
         "Start up frame": "17,28~29 (18~)",
         "Block frame": "-6~-5",
@@ -141,7 +141,7 @@
     },
     {
         "Command": "LK~RK 7 또는 8 또는 9",
-        "Hit level": "중중 (점프) (특수) (점프)(만잠자리)",
+        "Hit level": "중중 (하단 회피) (특수) (하단 회피)(만잠자리)",
         "Damage": "16,21",
         "Start up frame": "17,28~29 a(18~)",
         "Block frame": "+5~+6",
@@ -220,7 +220,7 @@
         "Notes": "-"
     },
     {
-        "Command": "LPRPLK",
+        "Command": "APLK",
         "Hit level": "중가불기",
         "Damage": "0",
         "Start up frame": "22~25",
@@ -320,7 +320,7 @@
         "Notes": "-"
     },
     {
-        "Command": "6LK LK 2LKRK",
+        "Command": "6LK LK 2AK",
         "Hit level": "상 하 (앉은 자세) (만자앉기)",
         "Damage": "32,21",
         "Start up frame": "16 Air",
@@ -350,7 +350,7 @@
         "Notes": "Wall bounce"
     },
     {
-        "Command": "6LPRP",
+        "Command": "6AP",
         "Hit level": "중",
         "Damage": "29",
         "Start up frame": "17?~18",
@@ -360,7 +360,7 @@
         "Notes": "-"
     },
     {
-        "Command": "6LKRK",
+        "Command": "6AK",
         "Hit level": "중 (특수) (지뢰인)",
         "Damage": "27(35)",
         "Start up frame": "21~25?",
@@ -370,7 +370,7 @@
         "Notes": "Power crush"
     },
     {
-        "Command": "6LKRK 4",
+        "Command": "6AK 4",
         "Hit level": "(특수)",
         "Damage": "-",
         "Start up frame": " RBT",
@@ -450,7 +450,7 @@
         "Notes": "-"
     },
     {
-        "Command": "3LPRP",
+        "Command": "3AP",
         "Hit level": "하 (앉은 자세)",
         "Damage": "12",
         "Start up frame": "26 RC",
@@ -460,7 +460,7 @@
         "Notes": "-"
     },
     {
-        "Command": "3LPRP RP",
+        "Command": "3AP RP",
         "Hit level": "하 (앉은 자세) 중",
         "Damage": "16,27",
         "Start up frame": "26",
@@ -820,7 +820,7 @@
         "Notes": "-"
     },
     {
-        "Command": "1LK LK.. (두 번째부터 다섯번째까지) 2LKRK",
+        "Command": "1LK LK.. (두 번째부터 다섯번째까지) 2AK",
         "Hit level": "하 하  (만자앉기)",
         "Damage": "13,9,,",
         "Start up frame": "12 Air",
@@ -840,7 +840,7 @@
         "Notes": "-"
     },
     {
-        "Command": "1N LPRP 또는 앉은 자세에서 1N LPRP (독무 자세 이행)",
+        "Command": "1N AP 또는 앉은 자세에서 1N AP (독무 자세 이행)",
         "Hit level": "(특수) (앉은 자세)(PDP)",
         "Damage": "-",
         "Start up frame": " RC",
@@ -861,7 +861,7 @@
     },
     {
         "Command": "독무 자세 중 LK 또는 RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "31",
         "Start up frame": "17~28 (32~)",
         "Block frame": "-15~-4",
@@ -970,7 +970,7 @@
         "Notes": "-"
     },
     {
-        "Command": "4RP LPRP",
+        "Command": "4RP AP",
         "Hit level": "중 (금타)",
         "Damage": "16",
         "Start up frame": "14",
@@ -981,7 +981,7 @@
     },
     {
         "Command": "4RP LP",
-        "Hit level": "중 중 (점프)",
+        "Hit level": "중 중 (하단 회피)",
         "Damage": "16,27",
         "Start up frame": "14",
         "Block frame": "-17~-16",
@@ -990,8 +990,8 @@
         "Notes": "-"
     },
     {
-        "Command": "4RP LP LPRP",
-        "Hit level": "중 중 (점프) (금타)",
+        "Command": "4RP LP AP",
+        "Hit level": "중 중 (하단 회피) (금타)",
         "Damage": "16,27",
         "Start up frame": "14",
         "Block frame": "-7",
@@ -1030,7 +1030,7 @@
         "Notes": "-"
     },
     {
-        "Command": "7LPRP",
+        "Command": "7AP",
         "Hit level": "가불기",
         "Damage": "50?",
         "Start up frame": "50~51",
@@ -1040,7 +1040,7 @@
         "Notes": "-"
     },
     {
-        "Command": "7LPRP LPRP",
+        "Command": "7AP AP",
         "Hit level": "상가불기",
         "Damage": "24",
         "Start up frame": "18~19 (37~)",
@@ -1050,7 +1050,7 @@
         "Notes": "-"
     },
     {
-        "Command": "7LPRP nLP",
+        "Command": "7AP nLP",
         "Hit level": "가불기",
         "Damage": "29",
         "Start up frame": "20~104 (21~)",
@@ -1060,7 +1060,7 @@
         "Notes": "-"
     },
     {
-        "Command": "7LPRP nLP 4",
+        "Command": "7AP nLP 4",
         "Hit level": "가불기 가불기",
         "Damage": "29,29",
         "Start up frame": "20~50 (26~)",
@@ -1070,8 +1070,8 @@
         "Notes": "-"
     },
     {
-        "Command": "8LKRK",
-        "Hit level": "중중 (점프)",
+        "Command": "8AK",
+        "Hit level": "중중 (하단 회피)",
         "Damage": "13,16",
         "Start up frame": "39~41, 45~48",
         "Block frame": "+4~+7s",
@@ -1080,8 +1080,8 @@
         "Notes": "-"
     },
     {
-        "Command": "8LKRK (6irst hit only)",
-        "Hit level": "중 (점프)",
+        "Command": "8AK (6irst hit only)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "13",
         "Start up frame": "39~41",
         "Block frame": "-9~-7",
@@ -1091,7 +1091,7 @@
     },
     {
         "Command": "9LP",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "25",
         "Start up frame": "23 js9",
         "Block frame": "-6",
@@ -1101,7 +1101,7 @@
     },
     {
         "Command": "9RP",
-        "Hit level": "하 (점프)",
+        "Hit level": "하 (하단 회피)",
         "Damage": "25 js10",
         "Start up frame": "35s",
         "Block frame": "-16",
@@ -1111,7 +1111,7 @@
     },
     {
         "Command": "9LK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "20",
         "Start up frame": "15",
         "Block frame": "-13",
@@ -1121,7 +1121,7 @@
     },
     {
         "Command": "7RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "22",
         "Start up frame": "20",
         "Block frame": "-19",
@@ -1131,7 +1131,7 @@
     },
     {
         "Command": "8 또는 9RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "28",
         "Start up frame": "20",
         "Block frame": "-9",
@@ -1140,8 +1140,8 @@
         "Notes": "Homing"
     },
     {
-        "Command": "9LPRP",
-        "Hit level": "가불기 (점프)",
+        "Command": "9AP",
+        "Hit level": "가불기 (하단 회피)",
         "Damage": "54",
         "Start up frame": "113~114",
         "Block frame": "KND",
@@ -1150,8 +1150,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LPRP 2 (6irst stage)",
-        "Hit level": "가불기 (점프)",
+        "Command": "9AP 2 (6irst stage)",
+        "Hit level": "가불기 (하단 회피)",
         "Damage": "27",
         "Start up frame": "55~56",
         "Block frame": "+4~+5",
@@ -1160,8 +1160,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LPRP 2 (Secon2 stage)",
-        "Hit level": "가불기 (점프)",
+        "Command": "9AP 2 (Secon2 stage)",
+        "Hit level": "가불기 (하단 회피)",
         "Damage": "40",
         "Start up frame": "83~84",
         "Block frame": "+4~+5",
@@ -1170,8 +1170,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LPRP LPRP",
-        "Hit level": "(특수) (점프)(만잠자리)",
+        "Command": "9AP AP",
+        "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
         "Start up frame": " Air",
         "Block frame": "-",
@@ -1180,8 +1180,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LPRP 4",
-        "Hit level": "가불기 (점프)",
+        "Command": "9AP 4",
+        "Hit level": "가불기 (하단 회피)",
         "Damage": "47",
         "Start up frame": "93~94",
         "Block frame": "KND",
@@ -1190,8 +1190,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LPRP 4 nLPRP",
-        "Hit level": "(특수) (점프)(만잠자리)",
+        "Command": "9AP 4 nAP",
+        "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
         "Start up frame": " Air",
         "Block frame": "-",
@@ -1200,8 +1200,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK",
-        "Hit level": "중 (점프)",
+        "Command": "9AK",
+        "Hit level": "중 (하단 회피)",
         "Damage": "27",
         "Start up frame": "31~34",
         "Block frame": "-16~-13",
@@ -1210,8 +1210,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK LPRP",
-        "Hit level": "(특수) (점프)(만잠자리)",
+        "Command": "9AK AP",
+        "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
         "Start up frame": " Air",
         "Block frame": "-",
@@ -1220,8 +1220,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK LKRK",
-        "Hit level": "중 (점프) 중",
+        "Command": "9AK AK",
+        "Hit level": "중 (하단 회피) 중",
         "Damage": "27,33",
         "Start up frame": "-",
         "Block frame": "-12",
@@ -1230,8 +1230,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK 2LPRP",
-        "Hit level": "중 (점프) 중 (점프)(지뢰인)",
+        "Command": "9AK 2AP",
+        "Hit level": "중 (하단 회피) 중 (하단 회피)(지뢰인)",
         "Damage": "27,9",
         "Start up frame": " Air",
         "Block frame": "+18 GB",
@@ -1240,8 +1240,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK 2LKRK",
-        "Hit level": "중 (점프) (만자앉기)",
+        "Command": "9AK 2AK",
+        "Hit level": "중 (하단 회피) (만자앉기)",
         "Damage": "27",
         "Start up frame": " Air",
         "Block frame": "-20",
@@ -1250,8 +1250,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK 4LP",
-        "Hit level": "중 (점프) 상",
+        "Command": "9AK 4LP",
+        "Hit level": "중 (하단 회피) 상",
         "Damage": "27,10",
         "Start up frame": "( Air)",
         "Block frame": "-1~0",
@@ -1260,8 +1260,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK 4LP LKRK",
-        "Hit level": "중 (점프) 상 중 (점프)",
+        "Command": "9AK 4LP AK",
+        "Hit level": "중 (하단 회피) 상 중 (하단 회피)",
         "Damage": "27,10,28",
         "Start up frame": "()",
         "Block frame": "0~+2 OC",
@@ -1270,8 +1270,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK 4LP RK",
-        "Hit level": "중 (점프) 상 중 (점프)",
+        "Command": "9AK 4LP RK",
+        "Hit level": "중 (하단 회피) 상 중 (하단 회피)",
         "Damage": "27,10,20",
         "Start up frame": "()",
         "Block frame": "-14~+7",
@@ -1280,8 +1280,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK 4LP RK 2LP",
-        "Hit level": "중 (점프) 상 중 (점프) 중",
+        "Command": "9AK 4LP RK 2LP",
+        "Hit level": "중 (하단 회피) 상 중 (하단 회피) 중",
         "Damage": "27,10,20,20",
         "Start up frame": "()",
         "Block frame": "-5~-4",
@@ -1290,8 +1290,8 @@
         "Notes": "-"
     },
     {
-        "Command": "9LKRK 8 또는 9LKRK",
-        "Hit level": "중 (점프) 중중 (점프)",
+        "Command": "9AK 8 또는 9AK",
+        "Hit level": "중 (하단 회피) 중중 (하단 회피)",
         "Damage": "27,13,13",
         "Start up frame": "()",
         "Block frame": "-4~-3",
@@ -1310,7 +1310,7 @@
         "Notes": "-"
     },
     {
-        "Command": "6 6RP Hit in 6rontLPRP",
+        "Command": "6 6RP 히트할 시AP",
         "Hit level": "중(잡기)",
         "Damage": "24,20(6,7,7)?",
         "Start up frame": "15(16~)",
@@ -1330,7 +1330,7 @@
         "Notes": "-"
     },
     {
-        "Command": "6 6LK LPRP",
+        "Command": "6 6LK AP",
         "Hit level": "중 (금타)",
         "Damage": "30",
         "Start up frame": "23(24~)",
@@ -1341,7 +1341,7 @@
     },
     {
         "Command": "6 6RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "27",
         "Start up frame": "15~16 RBT (16~)",
         "Block frame": "-5~-4?",
@@ -1350,7 +1350,7 @@
         "Notes": "-"
     },
     {
-        "Command": "6 6LPRP",
+        "Command": "6 6AP",
         "Hit level": "중",
         "Damage": "29",
         "Start up frame": "22~24 RBT (23~)",
@@ -1360,8 +1360,8 @@
         "Notes": "-"
     },
     {
-        "Command": "6 6LKRK",
-        "Hit level": "중 (점프)",
+        "Command": "6 6AK",
+        "Hit level": "중 (하단 회피)",
         "Damage": "20",
         "Start up frame": "22~24 (23~)",
         "Block frame": "-20~-18",
@@ -1370,8 +1370,8 @@
         "Notes": "-"
     },
     {
-        "Command": "6 6LKRK LPRP",
-        "Hit level": "중 (점프) 중 (점프)",
+        "Command": "6 6AK AP",
+        "Hit level": "중 (하단 회피) 중 (하단 회피)",
         "Damage": "20,20",
         "Start up frame": "22~24 (23~)",
         "Block frame": "-31~-25",
@@ -1380,8 +1380,8 @@
         "Notes": "-"
     },
     {
-        "Command": "6 6LKRK LPRP LKRK",
-        "Hit level": "중 (점프) 중 (점프) 중 (앉은 자세)",
+        "Command": "6 6AK AP AK",
+        "Hit level": "중 (하단 회피) 중 (하단 회피) 중 (앉은 자세)",
         "Damage": "20,20,27",
         "Start up frame": "22~24 (23~)",
         "Block frame": "-13",
@@ -1450,7 +1450,7 @@
         "Notes": "-"
     },
     {
-        "Command": "6 n 2 3LP LPRP",
+        "Command": "6 n 2 3LP AP",
         "Hit level": "중 (금타)",
         "Damage": "27",
         "Start up frame": "17~18 (17~)",
@@ -1470,7 +1470,7 @@
         "Notes": "Tail spin"
     },
     {
-        "Command": "레이지 도중 6 n6 n 2 3LPRP",
+        "Command": "레이지 도중 6 n6 n 2 3AP",
         "Hit level": "중 (앉은 자세)?",
         "Damage": "-",
         "Start up frame": "14(14~)",
@@ -1481,7 +1481,7 @@
     },
     {
         "Command": "6N23LP",
-        "Hit level": "가불기 (점프) 가불기 (점프) 가불기",
+        "Hit level": "가불기 (하단 회피) 가불기 (하단 회피) 가불기",
         "Damage": "32,24,33",
         "Start up frame": "31,38, 58~59",
         "Block frame": "0~+1 OC",
@@ -1490,8 +1490,8 @@
         "Notes": "-"
     },
     {
-        "Command": "6 6 6LK 또는 RPRKLK",
-        "Hit level": "중 (점프)",
+        "Command": "6 6 6LK 또는 ARLK",
+        "Hit level": "중 (하단 회피)",
         "Damage": "40",
         "Start up frame": "22~23 (25~)",
         "Block frame": "+9~+10g",
@@ -1640,7 +1640,7 @@
         "Notes": "-"
     },
     {
-        "Command": "일어나며 LK 또는 LKRK",
+        "Command": "일어나며 LK 또는 AK",
         "Hit level": "중",
         "Damage": "16",
         "Start up frame": "16",
@@ -1670,7 +1670,7 @@
         "Notes": "-"
     },
     {
-        "Command": "일어나며 RK LPRP",
+        "Command": "일어나며 RK AP",
         "Hit level": "중 (금타)",
         "Damage": "14",
         "Start up frame": "11",
@@ -1730,7 +1730,7 @@
         "Notes": "Homing, Tail spin"
     },
     {
-        "Command": "횡이동 중 RK LPRP",
+        "Command": "횡이동 중 RK AP",
         "Hit level": "상 (금타)",
         "Damage": "28",
         "Start up frame": "16(25~)",
@@ -1740,8 +1740,8 @@
         "Notes": "Homing, Tail spin"
     },
     {
-        "Command": "횡이동 중 RK LKRK",
-        "Hit level": "상 (MED)",
+        "Command": "횡이동 중 RK AK",
+        "Hit level": "상 (무상)",
         "Damage": "28",
         "Start up frame": "16 RBT(25~)",
         "Block frame": "-3",
@@ -1750,7 +1750,7 @@
         "Notes": "Homing, Tail spin"
     },
     {
-        "Command": "Gro8n2e2 6ace 8p LKRK",
+        "Command": "하늘을 보고 누워있을 때 AK",
         "Hit level": "(특수) (앉은 자세)(만자앉기)",
         "Damage": "-",
         "Start up frame": " Air",
@@ -1760,8 +1760,8 @@
         "Notes": "-"
     },
     {
-        "Command": "Opponent 2own 7 또는 8LP",
-        "Hit level": "On grounded opponent(중)",
+        "Command": "상대가 누워있을 때 7 또는 8LP",
+        "Hit level": "바닥 판정(중)",
         "Damage": "24",
         "Start up frame": "28",
         "Block frame": "-13",
@@ -1770,8 +1770,8 @@
         "Notes": "-"
     },
     {
-        "Command": "LPRP 또는 앉은 자세에서 LPRP (금타 자세 이행)",
-        "Hit level": "(특수)(Returns 중ove)(금타)",
+        "Command": "AP 또는 앉은 자세에서 AP (금타 자세 이행)",
+        "Hit level": "(특수)(자세 이행)(금타)",
         "Damage": "-",
         "Start up frame": "28",
         "Block frame": "-",
@@ -1780,8 +1780,8 @@
         "Notes": "-"
     },
     {
-        "Command": "금타 자세에서 Ret8rns high 또는 mi2 attacks",
-        "Hit level": "반격(중중 (점프))",
+        "Command": "금타 자세에서 상단 또는 중단 공격 반격",
+        "Hit level": "반격(중중 (하단 회피))",
         "Damage": "13,16",
         "Start up frame": "39~40",
         "Block frame": "+4~+5s",
@@ -1831,7 +1831,7 @@
     },
     {
         "Command": "금타 자세에서 LP LP RPLK",
-        "Hit level": "중 중중 (NSS)",
+        "Hit level": "중 중중 (납도)",
         "Damage": "13,6,20",
         "Start up frame": "17(32~)",
         "Block frame": "-28",
@@ -1850,7 +1850,7 @@
         "Notes": "-"
     },
     {
-        "Command": "금타 자세에서 RP LPRP",
+        "Command": "금타 자세에서 RP AP",
         "Hit level": "중 중",
         "Damage": "20,40",
         "Start up frame": "21(36~)",
@@ -1860,7 +1860,7 @@
         "Notes": "-"
     },
     {
-        "Command": "금타 자세에서 RP LPRPN",
+        "Command": "금타 자세에서 RP APN",
         "Hit level": "중 중",
         "Damage": "20,40",
         "Start up frame": "21(36~)",
@@ -1871,7 +1871,7 @@
     },
     {
         "Command": "금타 자세에서 LK",
-        "Hit level": "하 (점프)",
+        "Hit level": "하 (하단 회피)",
         "Damage": "17",
         "Start up frame": "25~32s js10 cs24",
         "Block frame": "-16~-9",
@@ -1890,7 +1890,7 @@
         "Notes": "Homing, Tail spin"
     },
     {
-        "Command": "금타 자세에서 RK LPRP",
+        "Command": "금타 자세에서 RK AP",
         "Hit level": "상 (금타)",
         "Damage": "28",
         "Start up frame": "16(31~)",
@@ -1900,8 +1900,8 @@
         "Notes": "Homing, Tail spin"
     },
     {
-        "Command": "금타 자세에서 RK LKRK",
-        "Hit level": "상 (MED)",
+        "Command": "금타 자세에서 RK AK",
+        "Hit level": "상 (무상)",
         "Damage": "28",
         "Start up frame": "16 RBT(31~)",
         "Block frame": "-3",
@@ -1910,8 +1910,8 @@
         "Notes": "Homing, Tail spin"
     },
     {
-        "Command": "금타 자세에서 LPRP",
-        "Hit level": "중중중중 (점프)",
+        "Command": "금타 자세에서 AP",
+        "Hit level": "중중중중 (하단 회피)",
         "Damage": "4,4,4,24",
         "Start up frame": "12,19, 27,41 RBT (27~)",
         "Block frame": "-6~-5",
@@ -1950,7 +1950,7 @@
         "Notes": "-"
     },
     {
-        "Command": "금타 자세에서 4LPRP",
+        "Command": "금타 자세에서 4AP",
         "Hit level": "가불기",
         "Damage": "30?",
         "Start up frame": "45?(?~)",
@@ -1960,8 +1960,8 @@
         "Notes": "-"
     },
     {
-        "Command": "금타 자세에서 8LPRP",
-        "Hit level": "(특수) (점프)(금타)",
+        "Command": "금타 자세에서 8AP",
+        "Hit level": "(특수) (하단 회피)(금타)",
         "Damage": "-",
         "Start up frame": " Air",
         "Block frame": "-",
@@ -1970,8 +1970,8 @@
         "Notes": "-"
     },
     {
-        "Command": "LKRK 또는 뒤자세 LKRK (무상 자세 이행)",
-        "Hit level": "(특수)(Recover 상ea하t상)(MED)",
+        "Command": "AK 또는 뒤자세 AK (무상 자세 이행)",
+        "Hit level": "(특수)(체력 회복)(무상)",
         "Damage": "-",
         "Start up frame": " RBT",
         "Block frame": "-",
@@ -1980,8 +1980,8 @@
         "Notes": "-"
     },
     {
-        "Command": "무상 자세 LKRK",
-        "Hit level": "(MED)",
+        "Command": "무상 자세 AK",
+        "Hit level": "(무상)",
         "Damage": "-",
         "Start up frame": " RBT",
         "Block frame": "-",
@@ -1991,7 +1991,7 @@
     },
     {
         "Command": "무상 자세 6 또는 4",
-        "Hit level": "(MED)",
+        "Hit level": "(무상)",
         "Damage": "-",
         "Start up frame": "+1~",
         "Block frame": "-",
@@ -2001,7 +2001,7 @@
     },
     {
         "Command": "무상 자세 LK (전방에 상대가 있을 때)",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "20",
         "Start up frame": "17~28 RBT",
         "Block frame": "-14~-3",
@@ -2011,7 +2011,7 @@
     },
     {
         "Command": "무상 자세 LK (후방에 상대가 있을 때)",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "20",
         "Start up frame": "29~38 RBT",
         "Block frame": "+3~+12",
@@ -2020,7 +2020,7 @@
         "Notes": "-"
     },
     {
-        "Command": "무상 자세 LPRP",
+        "Command": "무상 자세 AP",
         "Hit level": "가불기",
         "Damage": "13",
         "Start up frame": "30~31",
@@ -2041,7 +2041,7 @@
     },
     {
         "Command": "무상 자세 RPLK",
-        "Hit level": "상(T상row)",
+        "Hit level": "상(잡기)",
         "Damage": "22",
         "Start up frame": "38",
         "Block frame": "-",
@@ -2051,7 +2051,7 @@
     },
     {
         "Command": "무상 자세 RPLK 6",
-        "Hit level": "상(T상row)",
+        "Hit level": "상(잡기)",
         "Damage": "-26",
         "Start up frame": "38",
         "Block frame": "-",
@@ -2060,8 +2060,8 @@
         "Notes": "-"
     },
     {
-        "Command": "무상 자세 RPRK 또는 무상 자세 LPLK",
-        "Hit level": "상(T상row)",
+        "Command": "무상 자세 AR 또는 무상 자세 AL",
+        "Hit level": "상(잡기)",
         "Damage": "35",
         "Start up frame": "12",
         "Block frame": "Throw",
@@ -2070,8 +2070,8 @@
         "Notes": "-"
     },
     {
-        "Command": "2LPRP (지뢰인 자세 이행)",
-        "Hit level": "중 (점프)(지뢰인)",
+        "Command": "2AP (지뢰인 자세 이행)",
+        "Hit level": "중 (하단 회피)(지뢰인)",
         "Damage": "9",
         "Start up frame": "16 Air~",
         "Block frame": "+18 GB",
@@ -2111,7 +2111,7 @@
     },
     {
         "Command": "지뢰인 자세 중 LK 또는 RK",
-        "Hit level": "(특수) (점프)(지뢰인)",
+        "Hit level": "(특수) (하단 회피)(지뢰인)",
         "Damage": "-",
         "Start up frame": " Air",
         "Block frame": "-",
@@ -2120,7 +2120,7 @@
         "Notes": "-"
     },
     {
-        "Command": "지뢰인 자세 중 LPRP",
+        "Command": "지뢰인 자세 중 AP",
         "Hit level": "상",
         "Damage": "21?",
         "Start up frame": "18~19",
@@ -2130,7 +2130,7 @@
         "Notes": "-"
     },
     {
-        "Command": "지뢰인 자세 중 LKRK",
+        "Command": "지뢰인 자세 중 AK",
         "Hit level": "중 (앉은 자세)",
         "Damage": "33",
         "Start up frame": "25",
@@ -2141,7 +2141,7 @@
     },
     {
         "Command": "지뢰인 자세 중 6 또는 4 (지뢰맹마 이행)",
-        "Hit level": "(특수) (점프)(WFL)",
+        "Hit level": "(특수) (하단 회피)(지뢰맹마)",
         "Damage": "-",
         "Start up frame": " Air",
         "Block frame": "-",
@@ -2171,7 +2171,7 @@
     },
     {
         "Command": "지뢰인 자세 중 6 6",
-        "Hit level": "중 (점프) x 5 (지뢰인)",
+        "Hit level": "중 (하단 회피) x 5 (지뢰인)",
         "Damage": "4,4,4,4,4,2",
         "Start up frame": "8,17,25, 34,43 (9~)",
         "Block frame": "+6",
@@ -2181,7 +2181,7 @@
     },
     {
         "Command": "지뢰인 자세 중 6 6 (후속타가 헛쳤을 때)",
-        "Hit level": "중 (점프) x 4 (지뢰인)",
+        "Hit level": "중 (하단 회피) x 4 (지뢰인)",
         "Damage": "4,4,4,4,2",
         "Start up frame": "8,17,25, 34(9~)",
         "Block frame": "-3",
@@ -2200,7 +2200,7 @@
         "Notes": "-"
     },
     {
-        "Command": "지뢰인 자세 중 1 또는 2 또는 3LKRK",
+        "Command": "지뢰인 자세 중 1 또는 2 또는 3AK",
         "Hit level": "(특수) (앉은 자세)(지뢰인)",
         "Damage": "-",
         "Start up frame": " Air",
@@ -2210,8 +2210,8 @@
         "Notes": "-"
     },
     {
-        "Command": "지뢰인 자세 중 7 또는 8 또는 9LPRP",
-        "Hit level": "(특수) (점프)(만잠자리)",
+        "Command": "지뢰인 자세 중 7 또는 8 또는 9AP",
+        "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
         "Start up frame": " Air",
         "Block frame": "-",
@@ -2220,8 +2220,8 @@
         "Notes": "-"
     },
     {
-        "Command": "지뢰인 자세 중 8LKRK",
-        "Hit level": "중 (점프)",
+        "Command": "지뢰인 자세 중 8AK",
+        "Hit level": "중 (하단 회피)",
         "Damage": "40",
         "Start up frame": "38~39 RG",
         "Block frame": "+3~+4",
@@ -2230,8 +2230,8 @@
         "Notes": "-"
     },
     {
-        "Command": "지뢰인 자세 중 8LKRK Any 48tton",
-        "Hit level": "중 (점프) (특수)",
+        "Command": "지뢰인 자세 중 8AK Any 48tton",
+        "Hit level": "중 (하단 회피) (특수)",
         "Damage": "40",
         "Start up frame": "38~39",
         "Block frame": "-9~-8",
@@ -2241,7 +2241,7 @@
     },
     {
         "Command": "지뢰인 자세 중 7 또는 8 또는 9",
-        "Hit level": "가불기 (점프) (지뢰인)",
+        "Hit level": "가불기 (하단 회피) (지뢰인)",
         "Damage": "28",
         "Start up frame": "30~40",
         "Block frame": "KND",
@@ -2250,7 +2250,7 @@
         "Notes": "-"
     },
     {
-        "Command": "2LKRK (만자앉기 자세 이행)",
+        "Command": "2AK (만자앉기 자세 이행)",
         "Hit level": "(특수) (앉은 자세)(만자앉기)",
         "Damage": "-",
         "Start up frame": " Air",
@@ -2261,7 +2261,7 @@
     },
     {
         "Command": "만자앉기 중 n (만자앉기 자세 이행)",
-        "Hit level": "(특수) (앉은 자세)(INS)",
+        "Hit level": "(특수) (앉은 자세)(만자앉기)",
         "Damage": "-",
         "Start up frame": " Air",
         "Block frame": "-",
@@ -2271,7 +2271,7 @@
     },
     {
         "Command": "만자앉기 중 LP",
-        "Hit level": "가불기 (점프)(INS)",
+        "Hit level": "가불기 (하단 회피)(만자앉기)",
         "Damage": "20",
         "Start up frame": "53",
         "Block frame": "0 OC",
@@ -2281,7 +2281,7 @@
     },
     {
         "Command": "만자앉기 중 RP",
-        "Hit level": "중(INS)",
+        "Hit level": "중(만자앉기)",
         "Damage": "9",
         "Start up frame": "39 RC",
         "Block frame": "-9~-8",
@@ -2291,7 +2291,7 @@
     },
     {
         "Command": "만자앉기 중 LK",
-        "Hit level": "중 (점프)(INS)",
+        "Hit level": "중 (하단 회피)(만자앉기)",
         "Damage": "20",
         "Start up frame": "32~38",
         "Block frame": "-31~-25",
@@ -2300,8 +2300,8 @@
         "Notes": "-"
     },
     {
-        "Command": "만자앉기 중 LK LKRK",
-        "Hit level": "중 (점프) 중 (점프)(INS)",
+        "Command": "만자앉기 중 LK AK",
+        "Hit level": "중 (하단 회피) 중 (하단 회피)(만자앉기)",
         "Damage": "20,27",
         "Start up frame": "32~38",
         "Block frame": "-13",
@@ -2311,7 +2311,7 @@
     },
     {
         "Command": "만자앉기 중 RK",
-        "Hit level": "하 (앉은 자세)(INS)",
+        "Hit level": "하 (앉은 자세)(만자앉기)",
         "Damage": "20",
         "Start up frame": "18?s",
         "Block frame": "-21",
@@ -2321,7 +2321,7 @@
     },
     {
         "Command": "만자앉기 중 4 또는 6",
-        "Hit level": "(INS)",
+        "Hit level": "(만자앉기)",
         "Damage": "-",
         "Start up frame": "( RBT)",
         "Block frame": "-",
@@ -2330,8 +2330,8 @@
         "Notes": "-"
     },
     {
-        "Command": "만자앉기 중 LKRKN 2 또는 4 또는 6 또는 8",
-        "Hit level": "(INS)",
+        "Command": "만자앉기 중 AKN 2 또는 4 또는 6 또는 8",
+        "Hit level": "(만자앉기)",
         "Damage": "-",
         "Start up frame": "()",
         "Block frame": "-",
@@ -2340,8 +2340,8 @@
         "Notes": "-"
     },
     {
-        "Command": "만자앉기 중 LPRP",
-        "Hit level": "(특수) (점프)(지뢰인)",
+        "Command": "만자앉기 중 AP",
+        "Hit level": "(특수) (하단 회피)(지뢰인)",
         "Damage": "-",
         "Start up frame": "a",
         "Block frame": "-",
@@ -2350,8 +2350,8 @@
         "Notes": "-"
     },
     {
-        "Command": "만자앉기 중 8LPRP",
-        "Hit level": "(특수) (점프)(INS)",
+        "Command": "만자앉기 중 8AP",
+        "Hit level": "(특수) (하단 회피)(만자앉기)",
         "Damage": "-",
         "Start up frame": "a",
         "Block frame": "-",
@@ -2360,8 +2360,8 @@
         "Notes": "-"
     },
     {
-        "Command": "8LPRP (만잠자리 자세 이행)",
-        "Hit level": "(특수) (점프)(만잠자리)",
+        "Command": "8AP (만잠자리 자세 이행)",
+        "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
         "Start up frame": "a",
         "Block frame": "-",
@@ -2371,7 +2371,7 @@
     },
     {
         "Command": "만잠자리 자세 중 4 또는 6",
-        "Hit level": "(특수) (점프)",
+        "Hit level": "(특수) (하단 회피)",
         "Damage": "-",
         "Start up frame": "a",
         "Block frame": "-",
@@ -2401,7 +2401,7 @@
     },
     {
         "Command": "만잠자리 자세 중 RP",
-        "Hit level": "상 (점프)(만잠자리)",
+        "Hit level": "상 (하단 회피)(만잠자리)",
         "Damage": "20",
         "Start up frame": "16~17a (26~)",
         "Block frame": "+4~+5",
@@ -2421,7 +2421,7 @@
     },
     {
         "Command": "만잠자리 자세 중 RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "33",
         "Start up frame": "19~20 (29~)",
         "Block frame": "-6~-5?",
@@ -2430,8 +2430,8 @@
         "Notes": "Tail spin"
     },
     {
-        "Command": "만잠자리 자세 중 LPRP",
-        "Hit level": "(특수) (점프)(지뢰인)",
+        "Command": "만잠자리 자세 중 AP",
+        "Hit level": "(특수) (하단 회피)(지뢰인)",
         "Damage": "-",
         "Start up frame": "a",
         "Block frame": "-",
@@ -2440,8 +2440,8 @@
         "Notes": "-"
     },
     {
-        "Command": "만잠자리 자세 중 LKRK",
-        "Hit level": "상가불기 (Sky)(잡기)",
+        "Command": "만잠자리 자세 중 AK",
+        "Hit level": "상가불기 (공중)(잡기)",
         "Damage": "22,18",
         "Start up frame": "20~21 (30~)",
         "Block frame": "Throw",
@@ -2460,7 +2460,7 @@
         "Notes": "Homing, Tail spin"
     },
     {
-        "Command": "만잠자리 자세 중 2LKRK",
+        "Command": "만잠자리 자세 중 2AK",
         "Hit level": "(특수) (앉은 자세)(만자앉기)",
         "Damage": "-",
         "Start up frame": "a",
@@ -2521,7 +2521,7 @@
     },
     {
         "Command": "뒤자세 LK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "27",
         "Start up frame": "24~25 RBT",
         "Block frame": "-3~-2",
@@ -2551,7 +2551,7 @@
     },
     {
         "Command": "RPLK (납도로 전환)",
-        "Hit level": "(NSS)",
+        "Hit level": "(납도)",
         "Damage": "-",
         "Start up frame": "50~51",
         "Block frame": "-",
@@ -2620,7 +2620,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 LPRK 또는 앉은 자세에서 LPRP",
+        "Command": "납도 중 LPRK 또는 앉은 자세에서 AP",
         "Hit level": "중 (특수)",
         "Damage": "28",
         "Start up frame": "8~9",
@@ -2640,7 +2640,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 LPRPLK",
+        "Command": "납도 중 APLK",
         "Hit level": "상",
         "Damage": "33",
         "Start up frame": "22",
@@ -2650,7 +2650,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 6LPRP",
+        "Command": "납도 중 6AP",
         "Hit level": "중 (앉은 자세)",
         "Damage": "33",
         "Start up frame": "16~17 RC",
@@ -2660,7 +2660,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 6LKRK",
+        "Command": "납도 중 6AK",
         "Hit level": "중",
         "Damage": "27",
         "Start up frame": "21~25?",
@@ -2721,7 +2721,7 @@
     },
     {
         "Command": "납도 중 1LP",
-        "Hit level": "S중 (앉은 자세)",
+        "Hit level": "특중 (앉은 자세)",
         "Damage": "6",
         "Start up frame": "11 RC",
         "Block frame": "-5",
@@ -2750,7 +2750,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 7LPRP",
+        "Command": "납도 중 7AP",
         "Hit level": "가불기",
         "Damage": "67",
         "Start up frame": "51",
@@ -2760,7 +2760,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 7LPRP LP",
+        "Command": "납도 중 7AP LP",
         "Hit level": "상가불기",
         "Damage": "54",
         "Start up frame": "20(21~)",
@@ -2770,7 +2770,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 7LPRP LPRP",
+        "Command": "납도 중 7AP AP",
         "Hit level": "상",
         "Damage": "20",
         "Start up frame": "18~19 (37~)",
@@ -2780,8 +2780,8 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 8LPRP",
-        "Hit level": "하 (점프) (만자앉기)",
+        "Command": "납도 중 8AP",
+        "Hit level": "하 (하단 회피) (만자앉기)",
         "Damage": "24",
         "Start up frame": "27 Air",
         "Block frame": "+4 OC",
@@ -2790,8 +2790,8 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 9LKRK 4LP RK 2LP",
-        "Hit level": "중 (점프) 상 중 (점프) 중",
+        "Command": "납도 중 9AK 4LP RK 2LP",
+        "Hit level": "중 (하단 회피) 상 중 (하단 회피) 중",
         "Damage": "27,10,20,20",
         "Start up frame": "27",
         "Block frame": "-7~-6 OC",
@@ -2831,7 +2831,7 @@
     },
     {
         "Command": "납도 중 6N23LP",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "40",
         "Start up frame": "53~55 (53~)",
         "Block frame": "-8~-6 OC",
@@ -2911,7 +2911,7 @@
     },
     {
         "Command": "납도 중 만자앉기 중 LP",
-        "Hit level": "중 (점프)(INS)",
+        "Hit level": "중 (하단 회피)(만자앉기)",
         "Damage": "20",
         "Start up frame": "48~51",
         "Block frame": "-8~-5 OC",
@@ -2920,7 +2920,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 2LPRP 또는 2LKRK (만자앉기 자세 이행)",
+        "Command": "납도 중 2AP 또는 2AK (만자앉기 자세 이행)",
         "Hit level": "(만자앉기)",
         "Damage": "-",
         "Start up frame": "48~51",
@@ -2930,8 +2930,8 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 9LPRP",
-        "Hit level": "(특수) (점프)",
+        "Command": "납도 중 9AP",
+        "Hit level": "(특수) (하단 회피)",
         "Damage": "-",
         "Start up frame": " RC",
         "Block frame": "-",
@@ -3101,7 +3101,7 @@
     },
     {
         "Command": "6 6RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "27",
         "Start up frame": "15~16 RBT (16~)",
         "Block frame": "-6~-5",
@@ -3190,7 +3190,7 @@
         "Notes": "-"
     },
     {
-        "Command": "1LKRK홀드",
+        "Command": "1AK홀드",
         "Hit level": "하 (앉은 자세)",
         "Damage": "16",
         "Start up frame": "16 RC",
@@ -3201,7 +3201,7 @@
     },
     {
         "Command": "앉은 자세에서 LP",
-        "Hit level": "S중 (앉은 자세)",
+        "Hit level": "특중 (앉은 자세)",
         "Damage": "6",
         "Start up frame": "10s",
         "Block frame": "-5",
@@ -3211,7 +3211,7 @@
     },
     {
         "Command": "앉은 자세에서 RP",
-        "Hit level": "S중 (앉은 자세)",
+        "Hit level": "특중 (앉은 자세)",
         "Damage": "10",
         "Start up frame": "11s",
         "Block frame": "-4",
@@ -3270,7 +3270,7 @@
         "Notes": "-"
     },
     {
-        "Command": "일어나며 LPRP",
+        "Command": "일어나며 AP",
         "Hit level": "중",
         "Damage": "16",
         "Start up frame": "10~11",
@@ -3280,7 +3280,7 @@
         "Notes": "-"
     },
     {
-        "Command": "일어나며 LK 또는 LKRK",
+        "Command": "일어나며 LK 또는 AK",
         "Hit level": "중",
         "Damage": "16",
         "Start up frame": "16",
@@ -3341,7 +3341,7 @@
     },
     {
         "Command": "7 또는 8LP",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "16",
         "Start up frame": "18",
         "Block frame": "-8",
@@ -3351,7 +3351,7 @@
     },
     {
         "Command": "9LP",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "-",
         "Start up frame": "18",
         "Block frame": "-5,6?",
@@ -3371,7 +3371,7 @@
     },
     {
         "Command": "9RP",
-        "Hit level": "하 (점프)",
+        "Hit level": "하 (하단 회피)",
         "Damage": "25?",
         "Start up frame": "35s",
         "Block frame": "-16",
@@ -3381,7 +3381,7 @@
     },
     {
         "Command": "7 또는 8LK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "33",
         "Start up frame": "23",
         "Block frame": "-29",
@@ -3391,7 +3391,7 @@
     },
     {
         "Command": "9LK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "20",
         "Start up frame": "15",
         "Block frame": "-13",
@@ -3401,7 +3401,7 @@
     },
     {
         "Command": "7RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "22",
         "Start up frame": "20",
         "Block frame": "-19",
@@ -3411,7 +3411,7 @@
     },
     {
         "Command": "8 또는 9RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "28",
         "Start up frame": "20",
         "Block frame": "-9",
@@ -3481,7 +3481,7 @@
     },
     {
         "Command": "뒤자세 LK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "27",
         "Start up frame": "24~25 RBT",
         "Block frame": "-3~-2",
@@ -3490,7 +3490,7 @@
         "Notes": "-"
     },
     {
-        "Command": "뒤자세 LPRP",
+        "Command": "뒤자세 AP",
         "Hit level": "상",
         "Damage": "20",
         "Start up frame": "8",
@@ -3521,7 +3521,7 @@
     },
     {
         "Command": "뒤자세 2 또는 3RP",
-        "Hit level": "S중",
+        "Hit level": "특중",
         "Damage": "13",
         "Start up frame": "8 RC",
         "Block frame": "-2",
@@ -3691,7 +3691,7 @@
     },
     {
         "Command": "납도 중 6 6RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "27",
         "Start up frame": "15~16 RBT (16~)",
         "Block frame": "-6~-5",
@@ -3741,7 +3741,7 @@
     },
     {
         "Command": "납도 중 1LP",
-        "Hit level": "S중 (앉은 자세)",
+        "Hit level": "특중 (앉은 자세)",
         "Damage": "6",
         "Start up frame": "11 RC",
         "Block frame": "-5",
@@ -3780,7 +3780,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 1LKRK홀드",
+        "Command": "납도 중 1AK홀드",
         "Hit level": "하 (앉은 자세)",
         "Damage": "16",
         "Start up frame": "16 RC",
@@ -3791,7 +3791,7 @@
     },
     {
         "Command": "납도 중 앉은 자세에서 LP",
-        "Hit level": "S중 (앉은 자세)",
+        "Hit level": "특중 (앉은 자세)",
         "Damage": "6",
         "Start up frame": "10 RC",
         "Block frame": "-5",
@@ -3801,7 +3801,7 @@
     },
     {
         "Command": "납도 중 앉은 자세에서 RP",
-        "Hit level": "S중 (앉은 자세)",
+        "Hit level": "특중 (앉은 자세)",
         "Damage": "10",
         "Start up frame": "11 RC",
         "Block frame": "-4",
@@ -3860,7 +3860,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 일어나며 LPRP",
+        "Command": "납도 중 일어나며 AP",
         "Hit level": "중",
         "Damage": "16",
         "Start up frame": "10~11",
@@ -3870,7 +3870,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 일어나며 LK 또는 LKRK",
+        "Command": "납도 중 일어나며 LK 또는 AK",
         "Hit level": "중",
         "Damage": "16",
         "Start up frame": "16",
@@ -3931,7 +3931,7 @@
     },
     {
         "Command": "납도 중 7 또는 8 또는 9LP",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "16",
         "Start up frame": "18",
         "Block frame": "-8",
@@ -3951,7 +3951,7 @@
     },
     {
         "Command": "납도 중 9RP",
-        "Hit level": "하 (점프)",
+        "Hit level": "하 (하단 회피)",
         "Damage": "25",
         "Start up frame": "35 RC",
         "Block frame": "-18",
@@ -3961,7 +3961,7 @@
     },
     {
         "Command": "납도 중 7 또는 8LK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "33",
         "Start up frame": "23",
         "Block frame": "-29",
@@ -3971,7 +3971,7 @@
     },
     {
         "Command": "납도 중 9LK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "20",
         "Start up frame": "15",
         "Block frame": "-13",
@@ -3981,7 +3981,7 @@
     },
     {
         "Command": "납도 중 7RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "22",
         "Start up frame": "20",
         "Block frame": "-19",
@@ -3991,7 +3991,7 @@
     },
     {
         "Command": "납도 중 8 또는 9RK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "28",
         "Start up frame": "20",
         "Block frame": "-9",
@@ -4061,7 +4061,7 @@
     },
     {
         "Command": "납도 중 뒤자세 LK",
-        "Hit level": "중 (점프)",
+        "Hit level": "중 (하단 회피)",
         "Damage": "27",
         "Start up frame": "24~25 RBT",
         "Block frame": "-3~-2",
@@ -4070,7 +4070,7 @@
         "Notes": "-"
     },
     {
-        "Command": "납도 중 뒤자세 LPRP",
+        "Command": "납도 중 뒤자세 AP",
         "Hit level": "상",
         "Damage": "20",
         "Start up frame": "8",
@@ -4101,7 +4101,7 @@
     },
     {
         "Command": "납도 중 뒤자세 2 또는 3RP",
-        "Hit level": "S중",
+        "Hit level": "특중",
         "Damage": "13",
         "Start up frame": "10 RC",
         "Block frame": "-2",
