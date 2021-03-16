@@ -361,7 +361,7 @@
     },
     {
         "Command": "f+3+4",
-        "Hit level": "m(, (Special))(FLE)",
+        "Hit level": "m, (Special) (FLE)",
         "Damage": "27(35)",
         "Start up frame": "21~25?",
         "Block frame": "-14~-10?",
