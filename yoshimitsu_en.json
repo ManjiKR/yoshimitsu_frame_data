@@ -1311,7 +1311,7 @@
     },
     {
         "Command": "f, F+2 Hit in front1+2",
-        "Hit level": "m(throw)",
+        "Hit level": "m(Throw)",
         "Damage": "24,20(6,7,7)?",
         "Start up frame": "15(16~)",
         "Block frame": "-",
@@ -2441,7 +2441,7 @@
     },
     {
         "Command": "DGF 3+4",
-        "Hit level": "h!, (Sky)(throw)",
+        "Hit level": "h!, (Sky)(Throw)",
         "Damage": "22,18",
         "Start up frame": "20~21 (30~)",
         "Block frame": "Throw",
