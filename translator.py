@@ -1,6 +1,3 @@
-from os import replace
-
-
 en = open("yoshimitsu_en.json", "r")
 ko = open("yoshimitsu_ko.json", "w", encoding="UTF-8")
 
