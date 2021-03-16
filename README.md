@@ -12,3 +12,7 @@
 [Fork](https://github.com/ombe1229/yoshimitsu_frame_data/fork)
 
 [Issues](https://github.com/ombe1229/yoshimitsu_frame_data/issues)
+
+### Todo
+
+ - RG | 뭔뜻인지 못찾음
