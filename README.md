@@ -16,3 +16,9 @@
 ### Todo
 
  - RG, RC, a, d | 뭔뜻인지 못찾음
+
+### Manji
+
+[프론트엔드](https://github.com/ombe1229/Manji)
+[백엔드](https://github.com/ombe1229/ManjiApi)
+[데이터](https://github.com/ombe1229/yoshimitsu_frame_data)
