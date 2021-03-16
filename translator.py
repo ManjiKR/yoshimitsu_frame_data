@@ -157,6 +157,17 @@ for line in en:
             .replace("Air", "공중")
         )
         ko.write(f"{line[:21]}{new_text}")
+    elif '"Notes":' in line:
+        new_text = (
+            line[17:]
+            .replace("Rage drive", "레이지 드라이브")
+            .replace("Tail spin", "스크류기")
+            .replace("Rage Art", "레이지 아츠")
+            .replace("Power crush", "파워 크래시")
+            .replace("Homing", "호밍기")
+            .replace("Wall bounce", "월 바운드")
+        )
+        ko.write(f"{line[:17]}{new_text}")
     else:
         ko.write(line)
 

@@ -17,7 +17,7 @@
         "Block frame": "\u2013",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Rage drive"
+        "Notes": "레이지 드라이브"
     },
     {
         "Command": "LP",
@@ -77,7 +77,7 @@
         "Block frame": "-9",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "RP LP 4 (취소)",
@@ -117,7 +117,7 @@
         "Block frame": "-10",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "RP 2LK",
@@ -197,7 +197,7 @@
         "Block frame": "-4",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "LPRK 또는 일어나며 LPRK",
@@ -237,7 +237,7 @@
         "Block frame": "-4",
         "Hit frame": "+13kg",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "6RP 1RP",
@@ -307,7 +307,7 @@
         "Block frame": "-10",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "6LK LK",
@@ -347,7 +347,7 @@
         "Block frame": "-9",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Wall bounce"
+        "Notes": "월 바운드"
     },
     {
         "Command": "6AP",
@@ -367,7 +367,7 @@
         "Block frame": "-14~-10?",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Power crush"
+        "Notes": "파워 크래시"
     },
     {
         "Command": "6AK 4",
@@ -377,7 +377,7 @@
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
-        "Notes": "Power crush"
+        "Notes": "파워 크래시"
     },
     {
         "Command": "3LP",
@@ -397,7 +397,7 @@
         "Block frame": "-4",
         "Hit frame": "+13kg",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "3LP RK",
@@ -567,7 +567,7 @@
         "Block frame": "-9?",
         "Hit frame": "녹다운",
         "Counter hit frame": "-",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "2RP RP",
@@ -1137,7 +1137,7 @@
         "Block frame": "-9",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Homing"
+        "Notes": "호밍기"
     },
     {
         "Command": "9AP",
@@ -1467,7 +1467,7 @@
         "Block frame": "-14",
         "Hit frame": "+5?k",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "레이지 도중 6 n6 n 2 3AP",
@@ -1477,7 +1477,7 @@
         "Block frame": "+2?",
         "Hit frame": "SCD",
         "Counter hit frame": "SCD",
-        "Notes": "Rage art, Tail spin"
+        "Notes": "Rage art, 스크류기"
     },
     {
         "Command": "6N23LP",
@@ -1557,7 +1557,7 @@
         "Block frame": "-4",
         "Hit frame": "+13kg",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "일어나며 LP RP 1RP",
@@ -1687,7 +1687,7 @@
         "Block frame": "-21",
         "Hit frame": "+4?s",
         "Counter hit frame": "녹다운",
-        "Notes": "Homing"
+        "Notes": "호밍기"
     },
     {
         "Command": "앉은 자세에서 3LP 앉은 자세에서 1 4LP",
@@ -1727,7 +1727,7 @@
         "Block frame": "0",
         "Hit frame": "녹다운",
         "Counter hit frame": "스턴",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "횡이동 중 RK AP",
@@ -1737,7 +1737,7 @@
         "Block frame": "+3",
         "Hit frame": "녹다운",
         "Counter hit frame": "스턴",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "횡이동 중 RK AK",
@@ -1747,7 +1747,7 @@
         "Block frame": "-3",
         "Hit frame": "녹다운",
         "Counter hit frame": "스턴",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "하늘을 보고 누워있을 때 AK",
@@ -1887,7 +1887,7 @@
         "Block frame": "0",
         "Hit frame": "녹다운",
         "Counter hit frame": "스턴",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "금타 자세에서 RK AP",
@@ -1897,7 +1897,7 @@
         "Block frame": "+3",
         "Hit frame": "녹다운",
         "Counter hit frame": "스턴",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "금타 자세에서 RK AK",
@@ -1907,7 +1907,7 @@
         "Block frame": "-3",
         "Hit frame": "녹다운",
         "Counter hit frame": "스턴",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "금타 자세에서 AP",
@@ -2427,7 +2427,7 @@
         "Block frame": "-6~-5?",
         "Hit frame": "+14k",
         "Counter hit frame": "녹다운",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "만잠자리 자세 중 AP",
@@ -2457,7 +2457,7 @@
         "Block frame": "-?",
         "Hit frame": "녹다운",
         "Counter hit frame": "SCD",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "만잠자리 자세 중 2AK",
@@ -2507,7 +2507,7 @@
         "Block frame": "-4",
         "Hit frame": "+13kg",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "뒤자세 RP 1RP",
@@ -2667,7 +2667,7 @@
         "Block frame": "-14~-10?",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Power crush"
+        "Notes": "파워 크래시"
     },
     {
         "Command": "납도 중 3LK",
@@ -2717,7 +2717,7 @@
         "Block frame": "\u2013",
         "Hit frame": "+k",
         "Counter hit frame": "-",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "납도 중 1LP",
@@ -3047,7 +3047,7 @@
         "Block frame": "-4",
         "Hit frame": "+k",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "6LK",
@@ -3057,7 +3057,7 @@
         "Block frame": "-10",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "6RK",
@@ -3067,7 +3067,7 @@
         "Block frame": "-9",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Wall bounce"
+        "Notes": "월 바운드"
     },
     {
         "Command": "6 6LP",
@@ -3417,7 +3417,7 @@
         "Block frame": "-9",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Homing"
+        "Notes": "호밍기"
     },
     {
         "Command": "횡이동 중 LP",
@@ -3457,7 +3457,7 @@
         "Block frame": "0",
         "Hit frame": "녹다운",
         "Counter hit frame": "스턴",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "뒤자세 LP",
@@ -3477,7 +3477,7 @@
         "Block frame": "-4",
         "Hit frame": "+k",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "뒤자세 LK",
@@ -3637,7 +3637,7 @@
         "Block frame": "-4",
         "Hit frame": "+k",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "납도 중 6LK",
@@ -3647,7 +3647,7 @@
         "Block frame": "-10",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "납도 중 6RK",
@@ -3997,7 +3997,7 @@
         "Block frame": "-9",
         "Hit frame": "녹다운",
         "Counter hit frame": "녹다운",
-        "Notes": "Homing"
+        "Notes": "호밍기"
     },
     {
         "Command": "납도 중 횡이동 중 LP",
@@ -4037,7 +4037,7 @@
         "Block frame": "0",
         "Hit frame": "녹다운",
         "Counter hit frame": "스턴",
-        "Notes": "Homing, Tail spin"
+        "Notes": "호밍기, 스크류기"
     },
     {
         "Command": "납도 중 뒤자세 LP",
@@ -4057,7 +4057,7 @@
         "Block frame": "-4",
         "Hit frame": "+k",
         "Counter hit frame": "SCD",
-        "Notes": "Tail spin"
+        "Notes": "스크류기"
     },
     {
         "Command": "납도 중 뒤자세 LK",
