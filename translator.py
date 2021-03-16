@@ -55,7 +55,7 @@ for line in en:
             .replace("IND", "만자앉기 중")
             .replace("(to INS)", "(만자앉기 자세 이행)")
             .replace("INS", "만자앉기 중")
-            .replace("(to DGF)", "(만잠자리 잦세 이행)")
+            .replace("(to DGF)", "(만잠자리 자세 이행)")
             .replace("DGF", "만잠자리 자세 중")
             .replace("(to PDP)", "(독무 자세 이행)")
             .replace("PDP", "독무 자세 중")
