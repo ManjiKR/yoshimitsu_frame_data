@@ -1311,7 +1311,7 @@
     },
     {
         "Command": "6 6RP Hit in 6rontLPRP",
-        "Hit level": "중((잡기))",
+        "Hit level": "중(잡기)",
         "Damage": "24,20(6,7,7)?",
         "Start up frame": "15(16~)",
         "Block frame": "-",
@@ -2360,7 +2360,7 @@
         "Notes": "-"
     },
     {
-        "Command": "8LPRP (만잠자리 잦세 이행)",
+        "Command": "8LPRP (만잠자리 자세 이행)",
         "Hit level": "(특수) (점프)(만잠자리)",
         "Damage": "-",
         "Start up frame": "a",
@@ -2441,7 +2441,7 @@
     },
     {
         "Command": "만잠자리 자세 중 LKRK",
-        "Hit level": "상가불기 ( (Sky))(잡기)",
+        "Hit level": "상가불기 (Sky)(잡기)",
         "Damage": "22,18",
         "Start up frame": "20~21 (30~)",
         "Block frame": "Throw",
