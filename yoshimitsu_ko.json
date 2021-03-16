@@ -5,8 +5,8 @@
         "Damage": "-",
         "Start up frame": "20?",
         "Block frame": "\u2013",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -15,8 +15,8 @@
         "Damage": "20",
         "Start up frame": "6~",
         "Block frame": "\u2013",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Rage drive"
     },
     {
@@ -36,7 +36,7 @@
         "Start up frame": "10",
         "Block frame": "-8~-7",
         "Hit frame": "+4~+5s",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -56,7 +56,7 @@
         "Start up frame": "10",
         "Block frame": "-9",
         "Hit frame": "-2",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -75,8 +75,8 @@
         "Damage": "13,31",
         "Start up frame": "10",
         "Block frame": "-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Tail spin"
     },
     {
@@ -115,8 +115,8 @@
         "Damage": "13,28",
         "Start up frame": "10",
         "Block frame": "-10",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Tail spin"
     },
     {
@@ -165,8 +165,8 @@
         "Damage": "33",
         "Start up frame": "25a(26~)",
         "Block frame": "-12",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -176,7 +176,7 @@
         "Start up frame": "15",
         "Block frame": "-11",
         "Hit frame": "0",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -195,8 +195,8 @@
         "Damage": "22,22,27",
         "Start up frame": "15",
         "Block frame": "-4",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Tail spin"
     },
     {
@@ -205,8 +205,8 @@
         "Damage": "28",
         "Start up frame": "6",
         "Block frame": "-15",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -215,8 +215,8 @@
         "Damage": "28",
         "Start up frame": "6(7~)",
         "Block frame": "-15",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -305,8 +305,8 @@
         "Damage": "32",
         "Start up frame": "16",
         "Block frame": "-10",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -315,18 +315,18 @@
         "Damage": "32,21",
         "Start up frame": "16",
         "Block frame": "-20",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
         "Command": "6LK LK 2AK",
         "Hit level": "상 하 (앉은 자세) (만자앉기)",
         "Damage": "32,21",
-        "Start up frame": "16 Air",
+        "Start up frame": "16 공중",
         "Block frame": "-35",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND?",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운?",
         "Notes": "-"
     },
     {
@@ -335,8 +335,8 @@
         "Damage": "32,27",
         "Start up frame": "16b",
         "Block frame": "-6",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -345,8 +345,8 @@
         "Damage": "33",
         "Start up frame": "18",
         "Block frame": "-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Wall bounce"
     },
     {
@@ -355,8 +355,8 @@
         "Damage": "29",
         "Start up frame": "17?~18",
         "Block frame": "-8?~-7",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -365,8 +365,8 @@
         "Damage": "27(35)",
         "Start up frame": "21~25?",
         "Block frame": "-14~-10?",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Power crush"
     },
     {
@@ -415,8 +415,8 @@
         "Damage": "17",
         "Start up frame": "15~16",
         "Block frame": "-7~-6",
-        "Hit frame": "Launch (JG?)(+4a)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)(+4a)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -436,7 +436,7 @@
         "Start up frame": "17~18",
         "Block frame": "-9~-8?",
         "Hit frame": "+3~+4?s",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -444,9 +444,9 @@
         "Hit level": "중 가불기",
         "Damage": "13,27\uff5e",
         "Start up frame": "17~18",
-        "Block frame": "0~+1 OC",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Block frame": "0~+1 앉힘",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -475,8 +475,8 @@
         "Damage": "20",
         "Start up frame": "24~25",
         "Block frame": "-5~-4",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -484,9 +484,9 @@
         "Hit level": "가불기",
         "Damage": "27",
         "Start up frame": "65~66",
-        "Block frame": "0~+1 OC",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Block frame": "0~+1 앉힘",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -494,9 +494,9 @@
         "Hit level": "가불기",
         "Damage": "33",
         "Start up frame": "100~101",
-        "Block frame": "0~+1 OC",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Block frame": "0~+1 앉힘",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -504,9 +504,9 @@
         "Hit level": "가불기",
         "Damage": "40",
         "Start up frame": "135~136",
-        "Block frame": "0~+1 OC",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Block frame": "0~+1 앉힘",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -514,9 +514,9 @@
         "Hit level": "가불기",
         "Damage": "54",
         "Start up frame": "170~171",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -524,9 +524,9 @@
         "Hit level": "가불기",
         "Damage": "81",
         "Start up frame": "205~206",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -534,9 +534,9 @@
         "Hit level": "가불기",
         "Damage": "135",
         "Start up frame": "240~241",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -565,7 +565,7 @@
         "Damage": "16,22",
         "Start up frame": "16~17",
         "Block frame": "-9?",
-        "Hit frame": "KND",
+        "Hit frame": "녹다운",
         "Counter hit frame": "-",
         "Notes": "Tail spin"
     },
@@ -576,7 +576,7 @@
         "Start up frame": "16~17",
         "Block frame": "-12~-11",
         "Hit frame": "+7~+8",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -585,8 +585,8 @@
         "Damage": "16,22,27",
         "Start up frame": "16~17",
         "Block frame": "-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -596,7 +596,7 @@
         "Start up frame": "16~17",
         "Block frame": "-10",
         "Hit frame": "+4s",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -606,7 +606,7 @@
         "Start up frame": "16~17",
         "Block frame": "-12~-11",
         "Hit frame": "+7~+8",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -614,9 +614,9 @@
         "Hit level": "가불기",
         "Damage": "81(,22)",
         "Start up frame": "30d",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -624,9 +624,9 @@
         "Hit level": "가불기 가불기",
         "Damage": "81,24",
         "Start up frame": "30 RG",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -634,9 +634,9 @@
         "Hit level": "가불기 가불기 가불기",
         "Damage": "81,24,27",
         "Start up frame": "30 RG",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -644,9 +644,9 @@
         "Hit level": "가불기 가불기 가불기 가불기",
         "Damage": "81,24,27,28",
         "Start up frame": "30 RG",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -654,9 +654,9 @@
         "Hit level": "가불기 가불기 가불기 가불기 가불기",
         "Damage": "81,24,27,28,37",
         "Start up frame": "30 RG",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -664,9 +664,9 @@
         "Hit level": "가불기 가불기 가불기 가불기 가불기 가불기",
         "Damage": "81,24,27,28,37,40",
         "Start up frame": "30 RG",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -675,8 +675,8 @@
         "Damage": "21",
         "Start up frame": "20",
         "Block frame": "-16",
-        "Hit frame": "0 OC",
-        "Counter hit frame": "0 OC",
+        "Hit frame": "0 앉힘",
+        "Counter hit frame": "0 앉힘",
         "Notes": "-"
     },
     {
@@ -685,8 +685,8 @@
         "Damage": "21,31",
         "Start up frame": "20",
         "Block frame": "-8",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -815,15 +815,15 @@
         "Damage": "20",
         "Start up frame": "12",
         "Block frame": "-8",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
         "Command": "1LK LK.. (두 번째부터 다섯번째까지) 2AK",
         "Hit level": "하 하  (만자앉기)",
         "Damage": "13,9,,",
-        "Start up frame": "12 Air",
+        "Start up frame": "12 공중",
         "Block frame": "-25",
         "Hit frame": "-13",
         "Counter hit frame": "-13",
@@ -854,9 +854,9 @@
         "Hit level": "상가불기",
         "Damage": "33",
         "Start up frame": "22~37 (37~)",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -866,7 +866,7 @@
         "Start up frame": "17~28 (32~)",
         "Block frame": "-15~-4",
         "Hit frame": "-13~-2",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -985,8 +985,8 @@
         "Damage": "16,27",
         "Start up frame": "14",
         "Block frame": "-17~-16",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -995,8 +995,8 @@
         "Damage": "16,27",
         "Start up frame": "14",
         "Block frame": "-7",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -1005,8 +1005,8 @@
         "Damage": "16,28",
         "Start up frame": "14",
         "Block frame": "-13",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1034,9 +1034,9 @@
         "Hit level": "가불기",
         "Damage": "50?",
         "Start up frame": "50~51",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1046,7 +1046,7 @@
         "Start up frame": "18~19 (37~)",
         "Block frame": "+1~+2",
         "Hit frame": "+1~+2",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1054,9 +1054,9 @@
         "Hit level": "가불기",
         "Damage": "29",
         "Start up frame": "20~104 (21~)",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1064,9 +1064,9 @@
         "Hit level": "가불기 가불기",
         "Damage": "29,29",
         "Start up frame": "20~50 (26~)",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1075,8 +1075,8 @@
         "Damage": "13,16",
         "Start up frame": "39~41, 45~48",
         "Block frame": "+4~+7s",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1096,7 +1096,7 @@
         "Start up frame": "23 js9",
         "Block frame": "-6",
         "Hit frame": "+5s",
-        "Counter hit frame": "JG",
+        "Counter hit frame": "콤보",
         "Notes": "-"
     },
     {
@@ -1106,7 +1106,7 @@
         "Start up frame": "35s",
         "Block frame": "-16",
         "Hit frame": "+6g",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1115,8 +1115,8 @@
         "Damage": "20",
         "Start up frame": "15",
         "Block frame": "-13",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -1125,8 +1125,8 @@
         "Damage": "22",
         "Start up frame": "20",
         "Block frame": "-19",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1135,8 +1135,8 @@
         "Damage": "28",
         "Start up frame": "20",
         "Block frame": "-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Homing"
     },
     {
@@ -1144,9 +1144,9 @@
         "Hit level": "가불기 (하단 회피)",
         "Damage": "54",
         "Start up frame": "113~114",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1173,7 +1173,7 @@
         "Command": "9AP AP",
         "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -1184,16 +1184,16 @@
         "Hit level": "가불기 (하단 회피)",
         "Damage": "47",
         "Start up frame": "93~94",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
         "Command": "9AP 4 nAP",
         "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -1205,15 +1205,15 @@
         "Damage": "27",
         "Start up frame": "31~34",
         "Block frame": "-16~-13",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
         "Command": "9AK AP",
         "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -1225,35 +1225,35 @@
         "Damage": "27,33",
         "Start up frame": "-",
         "Block frame": "-12",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
         "Command": "9AK 2AP",
         "Hit level": "중 (하단 회피) 중 (하단 회피)(지뢰인)",
         "Damage": "27,9",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "+18 GB",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
         "Command": "9AK 2AK",
         "Hit level": "중 (하단 회피) (만자앉기)",
         "Damage": "27",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-20",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
         "Command": "9AK 4LP",
         "Hit level": "중 (하단 회피) 상",
         "Damage": "27,10",
-        "Start up frame": "( Air)",
+        "Start up frame": "( 공중)",
         "Block frame": "-1~0",
         "Hit frame": "-43~-42",
         "Counter hit frame": "-43~-42",
@@ -1264,9 +1264,9 @@
         "Hit level": "중 (하단 회피) 상 중 (하단 회피)",
         "Damage": "27,10,28",
         "Start up frame": "()",
-        "Block frame": "0~+2 OC",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "0~+2 앉힘",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1275,8 +1275,8 @@
         "Damage": "27,10,20",
         "Start up frame": "()",
         "Block frame": "-14~+7",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -1285,8 +1285,8 @@
         "Damage": "27,10,20,20",
         "Start up frame": "()",
         "Block frame": "-5~-4",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1295,8 +1295,8 @@
         "Damage": "27,13,13",
         "Start up frame": "()",
         "Block frame": "-4~-3",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1316,7 +1316,7 @@
         "Start up frame": "15(16~)",
         "Block frame": "-",
         "Hit frame": "-",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1326,7 +1326,7 @@
         "Start up frame": "23(24~)",
         "Block frame": "-5",
         "Hit frame": "+4",
-        "Counter hit frame": "CS 12",
+        "Counter hit frame": "스턴 12",
         "Notes": "-"
     },
     {
@@ -1336,7 +1336,7 @@
         "Start up frame": "23(24~)",
         "Block frame": "+1",
         "Hit frame": "+10",
-        "Counter hit frame": "CS 18",
+        "Counter hit frame": "스턴 18",
         "Notes": "-"
     },
     {
@@ -1345,8 +1345,8 @@
         "Damage": "27",
         "Start up frame": "15~16 RBT (16~)",
         "Block frame": "-5~-4?",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -1355,8 +1355,8 @@
         "Damage": "29",
         "Start up frame": "22~24 RBT (23~)",
         "Block frame": "-8~-6",
-        "Hit frame": "+3~+5 OC",
-        "Counter hit frame": "+3~+5 OC",
+        "Hit frame": "+3~+5 앉힘",
+        "Counter hit frame": "+3~+5 앉힘",
         "Notes": "-"
     },
     {
@@ -1365,8 +1365,8 @@
         "Damage": "20",
         "Start up frame": "22~24 (23~)",
         "Block frame": "-20~-18",
-        "Hit frame": "-9~-7 OC",
-        "Counter hit frame": "-9~-7 OC",
+        "Hit frame": "-9~-7 앉힘",
+        "Counter hit frame": "-9~-7 앉힘",
         "Notes": "-"
     },
     {
@@ -1375,8 +1375,8 @@
         "Damage": "20,20",
         "Start up frame": "22~24 (23~)",
         "Block frame": "-31~-25",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1385,8 +1385,8 @@
         "Damage": "20,20,27",
         "Start up frame": "22~24 (23~)",
         "Block frame": "-13",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -1394,9 +1394,9 @@
         "Hit level": "가불기",
         "Damage": "81",
         "Start up frame": "45 RG(46~)",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1404,9 +1404,9 @@
         "Hit level": "가불기 가불기",
         "Damage": "81,249",
         "Start up frame": "45(46~) RG",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1424,9 +1424,9 @@
         "Hit level": "가불기",
         "Damage": "67",
         "Start up frame": "59(60~)",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1435,8 +1435,8 @@
         "Damage": "28",
         "Start up frame": "47(48~)",
         "Block frame": "-15",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -1445,8 +1445,8 @@
         "Damage": "22",
         "Start up frame": "17~18 (17~)",
         "Block frame": "-15~-14",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -1455,8 +1455,8 @@
         "Damage": "27",
         "Start up frame": "17~18 (17~)",
         "Block frame": "-7~-6",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -1484,9 +1484,9 @@
         "Hit level": "가불기 (하단 회피) 가불기 (하단 회피) 가불기",
         "Damage": "32,24,33",
         "Start up frame": "31,38, 58~59",
-        "Block frame": "0~+1 OC",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "0~+1 OC",
+        "Block frame": "0~+1 앉힘",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "0~+1 앉힘",
         "Notes": "-"
     },
     {
@@ -1495,8 +1495,8 @@
         "Damage": "40",
         "Start up frame": "22~23 (25~)",
         "Block frame": "+9~+10g",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1613,7 +1613,7 @@
         "Command": "일어나며 LP RP 1RP RP RP RP RP RP",
         "Hit level": "중 상 중 중 중 중 중 중",
         "Damage": "20,24,10,9,8,6,5,4",
-        "Start up frame": "14~15 Air, RG",
+        "Start up frame": "14~15 공중, RG",
         "Block frame": "-49~-46",
         "Hit frame": "-38~-35",
         "Counter hit frame": "-38~-35",
@@ -1635,8 +1635,8 @@
         "Damage": "21,",
         "Start up frame": "15a",
         "Block frame": "-9?",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -1655,8 +1655,8 @@
         "Damage": "16,27",
         "Start up frame": "16",
         "Block frame": "-12s",
-        "Hit frame": "KND",
-        "Counter hit frame": "JG",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "콤보",
         "Notes": "-"
     },
     {
@@ -1686,7 +1686,7 @@
         "Start up frame": "18 RC",
         "Block frame": "-21",
         "Hit frame": "+4?s",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "Homing"
     },
     {
@@ -1694,9 +1694,9 @@
         "Hit level": "하가불기",
         "Damage": "16",
         "Start up frame": "25(26~)",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1706,7 +1706,7 @@
         "Start up frame": "17(26~)",
         "Block frame": "-9",
         "Hit frame": "+2",
-        "Counter hit frame": "Launch (JG?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -1715,8 +1715,8 @@
         "Damage": "27",
         "Start up frame": "18(27~)",
         "Block frame": "-13",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -1725,8 +1725,8 @@
         "Damage": "28",
         "Start up frame": "16(25~)",
         "Block frame": "0",
-        "Hit frame": "KND",
-        "Counter hit frame": "CS",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "스턴",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -1735,8 +1735,8 @@
         "Damage": "28",
         "Start up frame": "16(25~)",
         "Block frame": "+3",
-        "Hit frame": "KND",
-        "Counter hit frame": "CS",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "스턴",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -1745,15 +1745,15 @@
         "Damage": "28",
         "Start up frame": "16 RBT(25~)",
         "Block frame": "-3",
-        "Hit frame": "KND",
-        "Counter hit frame": "CS",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "스턴",
         "Notes": "Homing, Tail spin"
     },
     {
         "Command": "하늘을 보고 누워있을 때 AK",
         "Hit level": "(특수) (앉은 자세)(만자앉기)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -1765,8 +1765,8 @@
         "Damage": "24",
         "Start up frame": "28",
         "Block frame": "-13",
-        "Hit frame": "-8 OC",
-        "Counter hit frame": "-8 OC",
+        "Hit frame": "-8 앉힘",
+        "Counter hit frame": "-8 앉힘",
         "Notes": "-"
     },
     {
@@ -1785,8 +1785,8 @@
         "Damage": "13,16",
         "Start up frame": "39~40",
         "Block frame": "+4~+5s",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1835,8 +1835,8 @@
         "Damage": "13,6,20",
         "Start up frame": "17(32~)",
         "Block frame": "-28",
-        "Hit frame": "-12 OC",
-        "Counter hit frame": "-12 OC",
+        "Hit frame": "-12 앉힘",
+        "Counter hit frame": "-12 앉힘",
         "Notes": "-"
     },
     {
@@ -1845,8 +1845,8 @@
         "Damage": "20",
         "Start up frame": "21(36~)",
         "Block frame": "-14",
-        "Hit frame": "Launch(JG?)",
-        "Counter hit frame": "Launch(JG?)",
+        "Hit frame": "시동기(콤보?)",
+        "Counter hit frame": "시동기(콤보?)",
         "Notes": "-"
     },
     {
@@ -1854,9 +1854,9 @@
         "Hit level": "중 중",
         "Damage": "20,40",
         "Start up frame": "21(36~)",
-        "Block frame": "-18~-17 OC",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "-18~-17 앉힘",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1865,8 +1865,8 @@
         "Damage": "20,40",
         "Start up frame": "21(36~)",
         "Block frame": "-1~0",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1875,8 +1875,8 @@
         "Damage": "17",
         "Start up frame": "25~32s js10 cs24",
         "Block frame": "-16~-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1885,8 +1885,8 @@
         "Damage": "23",
         "Start up frame": "16(31~)",
         "Block frame": "0",
-        "Hit frame": "KND",
-        "Counter hit frame": "CS",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "스턴",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -1895,8 +1895,8 @@
         "Damage": "28",
         "Start up frame": "16(31~)",
         "Block frame": "+3",
-        "Hit frame": "KND",
-        "Counter hit frame": "CS",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "스턴",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -1905,8 +1905,8 @@
         "Damage": "28",
         "Start up frame": "16 RBT(31~)",
         "Block frame": "-3",
-        "Hit frame": "KND",
-        "Counter hit frame": "CS",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "스턴",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -1915,8 +1915,8 @@
         "Damage": "4,4,4,24",
         "Start up frame": "12,19, 27,41 RBT (27~)",
         "Block frame": "-6~-5",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -1925,7 +1925,7 @@
         "Damage": "33",
         "Start up frame": "12(27~)",
         "Block frame": "-13",
-        "Hit frame": "KND",
+        "Hit frame": "녹다운",
         "Counter hit frame": "SCD",
         "Notes": "-"
     },
@@ -1945,8 +1945,8 @@
         "Damage": "15,19",
         "Start up frame": "12(27~)",
         "Block frame": "-12",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -1954,16 +1954,16 @@
         "Hit level": "가불기",
         "Damage": "30?",
         "Start up frame": "45?(?~)",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
         "Command": "금타 자세에서 8AP",
         "Hit level": "(특수) (하단 회피)(금타)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -2005,8 +2005,8 @@
         "Damage": "20",
         "Start up frame": "17~28 RBT",
         "Block frame": "-14~-3",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -2015,8 +2015,8 @@
         "Damage": "20",
         "Start up frame": "29~38 RBT",
         "Block frame": "+3~+12",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2024,9 +2024,9 @@
         "Hit level": "가불기",
         "Damage": "13",
         "Start up frame": "30~31",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -2034,9 +2034,9 @@
         "Hit level": "가불기",
         "Damage": "81(,22)",
         "Start up frame": "30 RG",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -2073,10 +2073,10 @@
         "Command": "2AP (지뢰인 자세 이행)",
         "Hit level": "중 (하단 회피)(지뢰인)",
         "Damage": "9",
-        "Start up frame": "16 Air~",
+        "Start up frame": "16 공중~",
         "Block frame": "+18 GB",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2105,15 +2105,15 @@
         "Damage": "27",
         "Start up frame": "24~28 RG",
         "Block frame": "-13~-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
         "Command": "지뢰인 자세 중 LK 또는 RK",
         "Hit level": "(특수) (하단 회피)(지뢰인)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -2125,8 +2125,8 @@
         "Damage": "21?",
         "Start up frame": "18~19",
         "Block frame": "-8~-7",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -2135,15 +2135,15 @@
         "Damage": "33",
         "Start up frame": "25",
         "Block frame": "-12",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
         "Command": "지뢰인 자세 중 6 또는 4 (지뢰맹마 이행)",
         "Hit level": "(특수) (하단 회피)(지뢰맹마)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -2153,10 +2153,10 @@
         "Command": "지뢰맹마 중 LK",
         "Hit level": "중 (특수)",
         "Damage": "33(,10,10)",
-        "Start up frame": "17 Air(36~)",
+        "Start up frame": "17 공중(36~)",
         "Block frame": "-17",
-        "Hit frame": "Throw(KND)",
-        "Counter hit frame": "Throw(KND)",
+        "Hit frame": "Throw(녹다운)",
+        "Counter hit frame": "Throw(녹다운)",
         "Notes": "-"
     },
     {
@@ -2165,8 +2165,8 @@
         "Damage": "20",
         "Start up frame": "23 RG(42~)",
         "Block frame": "-10",
-        "Hit frame": "+11 OC",
-        "Counter hit frame": "KND",
+        "Hit frame": "+11 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2203,7 +2203,7 @@
         "Command": "지뢰인 자세 중 1 또는 2 또는 3AK",
         "Hit level": "(특수) (앉은 자세)(지뢰인)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -2213,7 +2213,7 @@
         "Command": "지뢰인 자세 중 7 또는 8 또는 9AP",
         "Hit level": "(특수) (하단 회피)(만잠자리)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -2225,8 +2225,8 @@
         "Damage": "40",
         "Start up frame": "38~39 RG",
         "Block frame": "+3~+4",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2235,8 +2235,8 @@
         "Damage": "40",
         "Start up frame": "38~39",
         "Block frame": "-9~-8",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2244,16 +2244,16 @@
         "Hit level": "가불기 (하단 회피) (지뢰인)",
         "Damage": "28",
         "Start up frame": "30~40",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
         "Command": "2AK (만자앉기 자세 이행)",
         "Hit level": "(특수) (앉은 자세)(만자앉기)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -2263,7 +2263,7 @@
         "Command": "만자앉기 중 n (만자앉기 자세 이행)",
         "Hit level": "(특수) (앉은 자세)(만자앉기)",
         "Damage": "-",
-        "Start up frame": " Air",
+        "Start up frame": " 공중",
         "Block frame": "-",
         "Hit frame": "-",
         "Counter hit frame": "-",
@@ -2274,9 +2274,9 @@
         "Hit level": "가불기 (하단 회피)(만자앉기)",
         "Damage": "20",
         "Start up frame": "53",
-        "Block frame": "0 OC",
-        "Hit frame": "0 OC",
-        "Counter hit frame": "0 OC",
+        "Block frame": "0 앉힘",
+        "Hit frame": "0 앉힘",
+        "Counter hit frame": "0 앉힘",
         "Notes": "-"
     },
     {
@@ -2295,8 +2295,8 @@
         "Damage": "20",
         "Start up frame": "32~38",
         "Block frame": "-31~-25",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2305,8 +2305,8 @@
         "Damage": "20,27",
         "Start up frame": "32~38",
         "Block frame": "-13",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -2315,8 +2315,8 @@
         "Damage": "20",
         "Start up frame": "18?s",
         "Block frame": "-21",
-        "Hit frame": "+3? OC",
-        "Counter hit frame": "KND",
+        "Hit frame": "+3? 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2405,8 +2405,8 @@
         "Damage": "20",
         "Start up frame": "16~17a (26~)",
         "Block frame": "+4~+5",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -2416,7 +2416,7 @@
         "Start up frame": "22 RC(32~)",
         "Block frame": "-14",
         "Hit frame": "+5?s",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2426,7 +2426,7 @@
         "Start up frame": "19~20 (29~)",
         "Block frame": "-6~-5?",
         "Hit frame": "+14k",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "Tail spin"
     },
     {
@@ -2455,7 +2455,7 @@
         "Damage": "-",
         "Start up frame": "18?a",
         "Block frame": "-?",
-        "Hit frame": "KND",
+        "Hit frame": "녹다운",
         "Counter hit frame": "SCD",
         "Notes": "Homing, Tail spin"
     },
@@ -2495,8 +2495,8 @@
         "Damage": "21,33",
         "Start up frame": "15",
         "Block frame": "-7",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2525,8 +2525,8 @@
         "Damage": "27",
         "Start up frame": "24~25 RBT",
         "Block frame": "-3~-2",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2536,7 +2536,7 @@
         "Start up frame": "17 RC",
         "Block frame": "-13",
         "Hit frame": "+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2544,9 +2544,9 @@
         "Hit level": "가불기",
         "Damage": "60",
         "Start up frame": "50~51 RBT",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -2615,8 +2615,8 @@
         "Damage": "13,6,13",
         "Start up frame": "10",
         "Block frame": "-12",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2625,8 +2625,8 @@
         "Damage": "28",
         "Start up frame": "8~9",
         "Block frame": "-16~-15",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -2635,8 +2635,8 @@
         "Damage": "28",
         "Start up frame": "8~9 (9~)",
         "Block frame": "-16~-15",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -2645,8 +2645,8 @@
         "Damage": "33",
         "Start up frame": "22",
         "Block frame": "-18",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2656,7 +2656,7 @@
         "Start up frame": "16~17 RC",
         "Block frame": "-13~-12",
         "Hit frame": "+4~+5",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2665,8 +2665,8 @@
         "Damage": "27",
         "Start up frame": "21~25?",
         "Block frame": "-14~-10?",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Power crush"
     },
     {
@@ -2685,8 +2685,8 @@
         "Damage": "13,16",
         "Start up frame": "17~18",
         "Block frame": "-5",
-        "Hit frame": "+5 OC",
-        "Counter hit frame": "KND",
+        "Hit frame": "+5 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2694,9 +2694,9 @@
         "Hit level": "중",
         "Damage": "20",
         "Start up frame": "24~25",
-        "Block frame": "-7~-6 OC",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Block frame": "-7~-6 앉힘",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2746,7 +2746,7 @@
         "Start up frame": "14",
         "Block frame": "-10",
         "Hit frame": "0",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2754,9 +2754,9 @@
         "Hit level": "가불기",
         "Damage": "67",
         "Start up frame": "51",
-        "Block frame": "CS",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Block frame": "스턴",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -2764,9 +2764,9 @@
         "Hit level": "상가불기",
         "Damage": "54",
         "Start up frame": "20(21~)",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2776,17 +2776,17 @@
         "Start up frame": "18~19 (37~)",
         "Block frame": "-15~-14",
         "Hit frame": "-4~-3",
-        "Counter hit frame": "CS",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
         "Command": "납도 중 8AP",
         "Hit level": "하 (하단 회피) (만자앉기)",
         "Damage": "24",
-        "Start up frame": "27 Air",
-        "Block frame": "+4 OC",
-        "Hit frame": "+20 OC",
-        "Counter hit frame": "+20 OC",
+        "Start up frame": "27 공중",
+        "Block frame": "+4 앉힘",
+        "Hit frame": "+20 앉힘",
+        "Counter hit frame": "+20 앉힘",
         "Notes": "-"
     },
     {
@@ -2794,9 +2794,9 @@
         "Hit level": "중 (하단 회피) 상 중 (하단 회피) 중",
         "Damage": "27,10,20,20",
         "Start up frame": "27",
-        "Block frame": "-7~-6 OC",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Block frame": "-7~-6 앉힘",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2804,9 +2804,9 @@
         "Hit level": "가불기",
         "Damage": "54",
         "Start up frame": "65~70 (66~)",
-        "Block frame": "KND",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "녹다운",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2815,8 +2815,8 @@
         "Damage": "28",
         "Start up frame": "47(48~)",
         "Block frame": "-15",
-        "Hit frame": "CS",
-        "Counter hit frame": "CS",
+        "Hit frame": "스턴",
+        "Counter hit frame": "스턴",
         "Notes": "-"
     },
     {
@@ -2834,9 +2834,9 @@
         "Hit level": "중 (하단 회피)",
         "Damage": "40",
         "Start up frame": "53~55 (53~)",
-        "Block frame": "-8~-6 OC",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "-8~-6 앉힘",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2865,8 +2865,8 @@
         "Damage": "21,21,33",
         "Start up frame": "53~55 (53~)",
         "Block frame": "-7",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2875,8 +2875,8 @@
         "Damage": "16",
         "Start up frame": "25~26 (26~)",
         "Block frame": "-14~-13?",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2895,8 +2895,8 @@
         "Damage": "-",
         "Start up frame": "18?(19?~)",
         "Block frame": "-19?",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2906,7 +2906,7 @@
         "Start up frame": "17 RC",
         "Block frame": "-13",
         "Hit frame": "+3",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2914,9 +2914,9 @@
         "Hit level": "중 (하단 회피)(만자앉기)",
         "Damage": "20",
         "Start up frame": "48~51",
-        "Block frame": "-8~-5 OC",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "-8~-5 앉힘",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2944,9 +2944,9 @@
         "Hit level": "중",
         "Damage": "20",
         "Start up frame": "16~17",
-        "Block frame": "-8~-7 OC",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Block frame": "-8~-7 앉힘",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2976,7 +2976,7 @@
         "Start up frame": "12",
         "Block frame": "-9",
         "Hit frame": "+5",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -2986,7 +2986,7 @@
         "Start up frame": "15",
         "Block frame": "-11",
         "Hit frame": "0",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3055,8 +3055,8 @@
         "Damage": "32",
         "Start up frame": "16",
         "Block frame": "-10",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -3065,8 +3065,8 @@
         "Damage": "33",
         "Start up frame": "18",
         "Block frame": "-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Wall bounce"
     },
     {
@@ -3096,7 +3096,7 @@
         "Start up frame": "23(24~)",
         "Block frame": "-5",
         "Hit frame": "+4",
-        "Counter hit frame": "CS 12",
+        "Counter hit frame": "스턴 12",
         "Notes": "-"
     },
     {
@@ -3105,8 +3105,8 @@
         "Damage": "27",
         "Start up frame": "15~16 RBT (16~)",
         "Block frame": "-6~-5",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -3115,8 +3115,8 @@
         "Damage": "20",
         "Start up frame": "24~25",
         "Block frame": "-5~-4",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3155,8 +3155,8 @@
         "Damage": "21",
         "Start up frame": "20",
         "Block frame": "-16",
-        "Hit frame": "0 OC",
-        "Counter hit frame": "0 OC",
+        "Hit frame": "0 앉힘",
+        "Counter hit frame": "0 앉힘",
         "Notes": "-"
     },
     {
@@ -3315,8 +3315,8 @@
         "Damage": "17",
         "Start up frame": "15~16",
         "Block frame": "-7~-6",
-        "Hit frame": "Launch (JG?)(+4a)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)(+4a)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -3356,7 +3356,7 @@
         "Start up frame": "18",
         "Block frame": "-5,6?",
         "Hit frame": "+s",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3376,7 +3376,7 @@
         "Start up frame": "35s",
         "Block frame": "-16",
         "Hit frame": "+8?",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3385,8 +3385,8 @@
         "Damage": "33",
         "Start up frame": "23",
         "Block frame": "-29",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3395,8 +3395,8 @@
         "Damage": "20",
         "Start up frame": "15",
         "Block frame": "-13",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -3405,8 +3405,8 @@
         "Damage": "22",
         "Start up frame": "20",
         "Block frame": "-19",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3415,8 +3415,8 @@
         "Damage": "28",
         "Start up frame": "20",
         "Block frame": "-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Homing"
     },
     {
@@ -3426,7 +3426,7 @@
         "Start up frame": "17(26~)",
         "Block frame": "-9",
         "Hit frame": "+2",
-        "Counter hit frame": "Launch (JG?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -3435,8 +3435,8 @@
         "Damage": "27",
         "Start up frame": "18(27~)",
         "Block frame": "-13",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -3446,7 +3446,7 @@
         "Start up frame": "12(13~)",
         "Block frame": "-9",
         "Hit frame": "+5",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3455,8 +3455,8 @@
         "Damage": "28",
         "Start up frame": "16(25~)",
         "Block frame": "0",
-        "Hit frame": "KND",
-        "Counter hit frame": "CS",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "스턴",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -3485,8 +3485,8 @@
         "Damage": "27",
         "Start up frame": "24~25 RBT",
         "Block frame": "-3~-2",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3505,8 +3505,8 @@
         "Damage": "33",
         "Start up frame": "10",
         "Block frame": "-8",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3566,7 +3566,7 @@
         "Start up frame": "12",
         "Block frame": "-9",
         "Hit frame": "+5",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3576,7 +3576,7 @@
         "Start up frame": "15",
         "Block frame": "-11",
         "Hit frame": "0",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3645,8 +3645,8 @@
         "Damage": "32",
         "Start up frame": "16",
         "Block frame": "-10",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -3655,8 +3655,8 @@
         "Damage": "33",
         "Start up frame": "18",
         "Block frame": "-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3686,7 +3686,7 @@
         "Start up frame": "23(24~)",
         "Block frame": "-5",
         "Hit frame": "+4",
-        "Counter hit frame": "CS 12",
+        "Counter hit frame": "스턴 12",
         "Notes": "-"
     },
     {
@@ -3695,8 +3695,8 @@
         "Damage": "27",
         "Start up frame": "15~16 RBT (16~)",
         "Block frame": "-6~-5",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -3704,9 +3704,9 @@
         "Hit level": "중",
         "Damage": "20",
         "Start up frame": "24~25",
-        "Block frame": "-7~-6 OC",
-        "Hit frame": "0~+1 OC",
-        "Counter hit frame": "KND",
+        "Block frame": "-7~-6 앉힘",
+        "Hit frame": "0~+1 앉힘",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3905,8 +3905,8 @@
         "Damage": "17",
         "Start up frame": "15~16",
         "Block frame": "-7~-6",
-        "Hit frame": "Launch (JG?)(+4)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)(+4)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -3956,7 +3956,7 @@
         "Start up frame": "35 RC",
         "Block frame": "-18",
         "Hit frame": "+4",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3965,8 +3965,8 @@
         "Damage": "33",
         "Start up frame": "23",
         "Block frame": "-29",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3975,8 +3975,8 @@
         "Damage": "20",
         "Start up frame": "15",
         "Block frame": "-13",
-        "Hit frame": "Launch (JG?)",
-        "Counter hit frame": "Launch (JG?)",
+        "Hit frame": "시동기 (콤보?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -3985,8 +3985,8 @@
         "Damage": "22",
         "Start up frame": "20",
         "Block frame": "-19",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -3995,8 +3995,8 @@
         "Damage": "28",
         "Start up frame": "20",
         "Block frame": "-9",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "Homing"
     },
     {
@@ -4006,7 +4006,7 @@
         "Start up frame": "17(26~)",
         "Block frame": "-9",
         "Hit frame": "+2",
-        "Counter hit frame": "Launch (JG?)",
+        "Counter hit frame": "시동기 (콤보?)",
         "Notes": "-"
     },
     {
@@ -4015,8 +4015,8 @@
         "Damage": "27",
         "Start up frame": "18(27~)",
         "Block frame": "-13",
-        "Hit frame": "Launch",
-        "Counter hit frame": "Launch",
+        "Hit frame": "시동기",
+        "Counter hit frame": "시동기",
         "Notes": "-"
     },
     {
@@ -4026,7 +4026,7 @@
         "Start up frame": "12(13~)",
         "Block frame": "-9",
         "Hit frame": "+5",
-        "Counter hit frame": "KND",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -4035,8 +4035,8 @@
         "Damage": "28",
         "Start up frame": "16(25~)",
         "Block frame": "0",
-        "Hit frame": "KND",
-        "Counter hit frame": "CS",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "스턴",
         "Notes": "Homing, Tail spin"
     },
     {
@@ -4065,8 +4065,8 @@
         "Damage": "27",
         "Start up frame": "24~25 RBT",
         "Block frame": "-3~-2",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
@@ -4085,8 +4085,8 @@
         "Damage": "33",
         "Start up frame": "10",
         "Block frame": "-8",
-        "Hit frame": "KND",
-        "Counter hit frame": "KND",
+        "Hit frame": "녹다운",
+        "Counter hit frame": "녹다운",
         "Notes": "-"
     },
     {
