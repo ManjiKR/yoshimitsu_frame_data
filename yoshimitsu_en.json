@@ -221,7 +221,7 @@
     },
     {
         "Command": "1+2+3",
-        "Hit level": "m(!)",
+        "Hit level": "m!",
         "Damage": "0",
         "Start up frame": "22~25",
         "Block frame": "-8~-5",
