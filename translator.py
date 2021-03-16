@@ -1,3 +1,6 @@
+from os import replace
+
+
 en = open("yoshimitsu_en.json", "r")
 ko = open("yoshimitsu_ko.json", "w", encoding="UTF-8")
 
@@ -108,6 +111,50 @@ for line in en:
             .replace("l", "하")
             .replace(", ", " ")
             .replace("!", "가불기")
+        )
+        ko.write(f"{line[:21]}{new_text}")
+    elif '"Start up frame":' in line:
+        new_text = (
+            line[21:]
+            .replace("KND", "녹다운")
+            .replace("Launch", "시동기")
+            .replace("CS", "스턴")
+            .replace("JG", "콤보")
+            .replace("OC", "앉힘")
+            .replace("Air", "공중")
+        )
+        ko.write(f"{line[:21]}{new_text}")
+    elif '"Block frame":' in line:
+        new_text = (
+            line[21:]
+            .replace("KND", "녹다운")
+            .replace("Launch", "시동기")
+            .replace("CS", "스턴")
+            .replace("JG", "콤보")
+            .replace("OC", "앉힘")
+            .replace("Air", "공중")
+        )
+        ko.write(f"{line[:21]}{new_text}")
+    elif '"Hit frame":' in line:
+        new_text = (
+            line[21:]
+            .replace("KND", "녹다운")
+            .replace("Launch", "시동기")
+            .replace("CS", "스턴")
+            .replace("JG", "콤보")
+            .replace("OC", "앉힘")
+            .replace("Air", "공중")
+        )
+        ko.write(f"{line[:21]}{new_text}")
+    elif '"Counter hit frame":' in line:
+        new_text = (
+            line[21:]
+            .replace("KND", "녹다운")
+            .replace("Launch", "시동기")
+            .replace("CS", "스턴")
+            .replace("JG", "콤보")
+            .replace("OC", "앉힘")
+            .replace("Air", "공중")
         )
         ko.write(f"{line[:21]}{new_text}")
     else:
