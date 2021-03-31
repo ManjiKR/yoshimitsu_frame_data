@@ -4,14 +4,14 @@
 
 [여기](https://github.com/BKNR/mokujin)서 json 가져오고 한국/일본식으로 번역한거
 
- - [yoshimitsu_en.json](https://github.com/ombe1229/yoshimitsu_frame_data/blob/master/yoshimitsu_en.json) `원본`
- - [yoshimitsu_ko.json](https://github.com/ombe1229/yoshimitsu_frame_data/blob/master/yoshimitsu_ko.json) `번역본`
+ - [yoshimitsu_en.json](https://github.com/ManjiKR/yoshimitsu_frame_data/blob/master/yoshimitsu_en.json) `원본`
+ - [yoshimitsu_ko.json](https://github.com/ManjiKR/yoshimitsu_frame_data/blob/master/yoshimitsu_ko.json) `번역본`
 
 ## Contributing
 
-[Fork](https://github.com/ombe1229/yoshimitsu_frame_data/fork)
+[Fork](https://github.com/ManjiKR/yoshimitsu_frame_data/fork)
 
-[Issues](https://github.com/ombe1229/yoshimitsu_frame_data/issues)
+[Issues](https://github.com/ManjiKR/yoshimitsu_frame_data/issues)
 
 ### Todo
 
@@ -19,6 +19,6 @@
 
 ### Manji
 
-[프론트엔드](https://github.com/ombe1229/Manji)
-[백엔드](https://github.com/ombe1229/ManjiApi)
-[데이터](https://github.com/ombe1229/yoshimitsu_frame_data)
+[프론트엔드](https://github.com/ManjiKR/Manji)
+[백엔드](https://github.com/ManjiKR/ManjiApi)
+[데이터](https://github.com/ManjiKR/yoshimitsu_frame_data)
